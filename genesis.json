@@ -1,0 +1,429 @@
+{
+  "genesis_time": "2021-12-23T04:33:12.45192490Z",
+  "chain_id": "mercury",
+  "initial_height": "0",
+  "consensus_params": {
+    "block": {
+      "max_bytes": "22020096",
+      "max_gas": "-1",
+      "time_iota_ms": "1000"
+    },
+    "evidence": {
+      "max_age_num_blocks": "100000",
+      "max_age_duration": "172800000000000",
+      "max_bytes": "1048576"
+    },
+    "validator": {
+      "pub_key_types": [
+        "ed25519"
+      ]
+    },
+    "version": {}
+  },
+  "app_hash": "",
+  "app_state": {
+    "auth": {
+      "params": {
+        "max_memo_characters": "256",
+        "tx_sig_limit": "7",
+        "tx_size_cost_per_byte": "10",
+        "sig_verify_cost_ed25519": "590",
+        "sig_verify_cost_secp256k1": "1000"
+      },
+      "accounts": [
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "reap16lpesehxymwr3xqxfw6j7y8utv29cg9mfl9fph",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "reap1w6nzk5lk8c6qz0kt8fgv8pnqd97pn6e32twx5p",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "reap1ven8s78km5hahxxlylxgf403nf0jr3t484rrev",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "reap1ppnjgfl3ehs2m5xvzf5rl7kjdzkrt8nj722ket",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "reap1jd042w5fx8ulzxvnq0tuswnhjapjyncxecsc4z",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "reap1yklx36ud99wulgd5p805pkg34xsrarwqgtpqx6",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        }
+      ]
+    },
+    "bank": {
+      "params": {
+        "send_enabled": [],
+        "default_send_enabled": true
+      },
+      "balances": [
+        {
+          "address": "reap1ppnjgfl3ehs2m5xvzf5rl7kjdzkrt8nj722ket",
+          "coins": [
+            {
+              "denom": "ureap",
+              "amount": "1000000000"
+            }
+          ]
+        },
+        {
+          "address": "reap1yklx36ud99wulgd5p805pkg34xsrarwqgtpqx6",
+          "coins": [
+            {
+              "denom": "ureap",
+              "amount": "1000000000000000000000000000000000000000000000000000000"
+            }
+          ]
+        },
+        {
+          "address": "reap1ven8s78km5hahxxlylxgf403nf0jr3t484rrev",
+          "coins": [
+            {
+              "denom": "ureap",
+              "amount": "1000000000"
+            }
+          ]
+        },
+        {
+          "address": "reap1w6nzk5lk8c6qz0kt8fgv8pnqd97pn6e32twx5p",
+          "coins": [
+            {
+              "denom": "ureap",
+              "amount": "1000000000"
+            }
+          ]
+        },
+        {
+          "address": "reap1jd042w5fx8ulzxvnq0tuswnhjapjyncxecsc4z",
+          "coins": [
+            {
+              "denom": "ureap",
+              "amount": "1000000000"
+            }
+          ]
+        },
+        {
+          "address": "reap16lpesehxymwr3xqxfw6j7y8utv29cg9mfl9fph",
+          "coins": [
+            {
+              "denom": "ureap",
+              "amount": "1000000000"
+            }
+          ]
+        }
+      ],
+      "supply": [],
+      "denom_metadata": []
+    },
+    "capability": {
+      "index": "1",
+      "owners": []
+    },
+    "crisis": {
+      "constant_fee": {
+        "denom": "ureap",
+        "amount": "1000"
+      }
+    },
+    "distribution": {
+      "params": {
+        "community_tax": "0.020000000000000000",
+        "base_proposer_reward": "0.010000000000000000",
+        "bonus_proposer_reward": "0.040000000000000000",
+        "withdraw_addr_enabled": true
+      },
+      "fee_pool": {
+        "community_pool": []
+      },
+      "delegator_withdraw_infos": [],
+      "previous_proposer": "",
+      "outstanding_rewards": [],
+      "validator_accumulated_commissions": [],
+      "validator_historical_rewards": [],
+      "validator_current_rewards": [],
+      "delegator_starting_infos": [],
+      "validator_slash_events": []
+    },
+    "evidence": {
+      "evidence": []
+    },
+    "genutil": {
+      "gen_txs": []
+    },
+    "gov": {
+      "starting_proposal_id": "1",
+      "deposits": [],
+      "votes": [],
+      "proposals": [],
+      "deposit_params": {
+        "min_deposit": [
+          {
+            "denom": "ureap",
+            "amount": "10000000"
+          }
+        ],
+        "max_deposit_period": "172800s"
+      },
+      "voting_params": {
+        "voting_period": "172800s"
+      },
+      "tally_params": {
+        "quorum": "0.334000000000000000",
+        "threshold": "0.500000000000000000",
+        "veto_threshold": "0.334000000000000000"
+      }
+    },
+    "ibc": {
+      "client_genesis": {
+        "clients": [],
+        "clients_consensus": [],
+        "clients_metadata": [],
+        "params": {
+          "allowed_clients": [
+            "06-solomachine",
+            "07-reapchain"
+          ]
+        },
+        "create_localhost": false,
+        "next_client_sequence": "0"
+      },
+      "connection_genesis": {
+        "connections": [],
+        "client_connection_paths": [],
+        "next_connection_sequence": "0"
+      },
+      "channel_genesis": {
+        "channels": [],
+        "acknowledgements": [],
+        "commitments": [],
+        "receipts": [],
+        "send_sequences": [],
+        "recv_sequences": [],
+        "ack_sequences": [],
+        "next_channel_sequence": "0"
+      }
+    },
+    "mint": {
+      "minter": {
+        "inflation": "0.130000000000000000",
+        "annual_provisions": "0.000000000000000000"
+      },
+      "params": {
+        "mint_denom": "ureap",
+        "inflation_rate_change": "0.130000000000000000",
+        "inflation_max": "0.200000000000000000",
+        "inflation_min": "0.070000000000000000",
+        "goal_bonded": "0.670000000000000000",
+        "blocks_per_year": "6311520"
+      }
+    },
+    "params": null,
+    "reap": {},
+    "reapgovernance": {
+      "starting_proposal_id": "1",
+      "deposits": [],
+      "votes": [],
+      "proposals": [],
+      "deposit_params": {
+        "min_deposit": [
+          {
+            "denom": "ureap",
+            "amount": "10000000"
+          }
+        ],
+        "max_deposit_period": "172800s"
+      },
+      "voting_params": {
+        "voting_period": "172800s"
+      },
+      "tally_params": {
+        "quorum": "0.334000000000000000",
+        "threshold": "0.500000000000000000",
+        "veto_threshold": "0.334000000000000000"
+      }
+    },
+    "slashing": {
+      "params": {
+        "signed_blocks_window": "100",
+        "min_signed_per_window": "0.500000000000000000",
+        "downtime_jail_duration": "600s",
+        "slash_fraction_double_sign": "0.050000000000000000",
+        "slash_fraction_downtime": "0.010000000000000000"
+      },
+      "signing_infos": [],
+      "missed_blocks": []
+    },
+    "staking": {
+      "params": {
+        "unbonding_time": "1814400s",
+        "max_validators": 100,
+        "max_entries": 7,
+        "historical_entries": 10000,
+        "bond_denom": "ureap"
+      },
+      "last_total_power": "0",
+      "last_validator_powers": [],
+      "validators": [],
+      "delegations": [],
+      "unbonding_delegations": [],
+      "redelegations": [],
+      "exported": false
+    },
+    "transfer": {
+      "port_id": "transfer",
+      "denom_traces": [],
+      "params": {
+        "send_enabled": true,
+        "receive_enabled": true
+      }
+    },
+    "upgrade": {},
+    "vesting": {}
+  },
+  "consensus_round": {
+    "consensus_start_block_height": "1",
+    "peorid": "12",
+    "qrn_peorid": "4",
+    "vrf_peorid": "4",
+    "validator_peorid": "4"
+  },
+  "validators": [
+    {
+      "address": "B5702D845F13FFBB2DFFDCEFB7A7FF2BCAFEC997",
+      "pub_key": {
+        "type": "reapchain/PubKeyEd25519",
+        "value": "UquxyfnPv30k7ObVGCvVpq4WTC0+pbupjt00iB0bTVg="
+      },
+      "power": "10",
+      "name": "node0"
+    },
+    {
+      "address": "655B86E91B31CC583FA5953573E24154F54A2323",
+      "pub_key": {
+        "type": "reapchain/PubKeyEd25519",
+        "value": "G8NGGChMSaIiQwNoBhYs9b87dms2ojYDCsthqLBYHAI="
+      },
+      "power": "10",
+      "name": "node1"
+    },
+    {
+      "address": "ED77EDA945F52977522488A613B6CFFC0730C8D0",
+      "pub_key": {
+        "type": "reapchain/PubKeyEd25519",
+        "value": "a+NY+aPVNSnFFzwUeZP8uzhhRccQ1xYF1EgWs/Y/qlI="
+      },
+      "power": "10",
+      "name": "node2"
+    },
+    {
+      "address": "1F39AF95B8EDC307406F39FBBD5386B15E7B6A82",
+      "pub_key": {
+        "type": "reapchain/PubKeyEd25519",
+        "value": "z271gwLxMjDgLWLE4EAEtAuu9S+6EXLWk90CuGwMnac="
+      },
+      "power": "10",
+      "name": "node3"
+    },
+    {
+      "address": "79CC23CB23AFC35ADCD99F8E4BD8A83C9C89626D",
+      "pub_key": {
+        "type": "reapchain/PubKeyEd25519",
+        "value": "xE4LyaEWVHeapm3CPc3K60PpiSHXNaawtXb4iY03CCk="
+      },
+      "power": "10",
+      "name": "node4"
+    }
+  ],
+  "standing_members": [
+    {
+      "address": "B5702D845F13FFBB2DFFDCEFB7A7FF2BCAFEC997",
+      "pub_key": {
+        "type": "reapchain/PubKeyEd25519",
+        "value": "UquxyfnPv30k7ObVGCvVpq4WTC0+pbupjt00iB0bTVg="
+      },
+      "name": "node0"
+    },
+    {
+      "address": "655B86E91B31CC583FA5953573E24154F54A2323",
+      "pub_key": {
+        "type": "reapchain/PubKeyEd25519",
+        "value": "G8NGGChMSaIiQwNoBhYs9b87dms2ojYDCsthqLBYHAI="
+      },
+      "name": "node1"
+    }
+  ],
+  "qrns": [
+    {
+      "height": "1",
+      "timestamp": "2021-12-23T04:33:11.0465183Z",
+      "standing_member_pub_key": {
+        "type": "reapchain/PubKeyEd25519",
+        "value": "UquxyfnPv30k7ObVGCvVpq4WTC0+pbupjt00iB0bTVg="
+      },
+      "standing_member_index": 0,
+      "value": "2435047473652154200",
+      "signature": "4MQvMQnCh8mQK7ofryGCseAjblB5HtmD03tHtn66ctJLFCtRfGNIgSZP4KX8x6OaPcVhmDGaJGtYX/qGV83CDA=="
+    },
+    {
+      "height": "1",
+      "timestamp": "2021-12-23T04:33:11.0953027Z",
+      "standing_member_pub_key": {
+        "type": "reapchain/PubKeyEd25519",
+        "value": "G8NGGChMSaIiQwNoBhYs9b87dms2ojYDCsthqLBYHAI="
+      },
+      "standing_member_index": 1,
+      "value": "7499098393011706411",
+      "signature": "gNzO8CC7SZ8YG1sPJEtN7ONXSDETM+Y2dXBhNBnI+KrURM6UHEnYvy75EpFVA/okT4MA9rQQz0W4KiTPCoYnBQ=="
+    }
+  ],
+  "steering_member_candidates": [
+    {
+      "address": "ED77EDA945F52977522488A613B6CFFC0730C8D0",
+      "pub_key": {
+        "type": "reapchain/PubKeyEd25519",
+        "value": "a+NY+aPVNSnFFzwUeZP8uzhhRccQ1xYF1EgWs/Y/qlI="
+      },
+      "name": "node2"
+    },
+    {
+      "address": "1F39AF95B8EDC307406F39FBBD5386B15E7B6A82",
+      "pub_key": {
+        "type": "reapchain/PubKeyEd25519",
+        "value": "z271gwLxMjDgLWLE4EAEtAuu9S+6EXLWk90CuGwMnac="
+      },
+      "name": "node3"
+    },
+    {
+      "address": "79CC23CB23AFC35ADCD99F8E4BD8A83C9C89626D",
+      "pub_key": {
+        "type": "reapchain/PubKeyEd25519",
+        "value": "xE4LyaEWVHeapm3CPc3K60PpiSHXNaawtXb4iY03CCk="
+      },
+      "name": "node4"
+    }
+  ]
+}
