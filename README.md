@@ -1,12 +1,5 @@
-# ReapChain
-
-
-
-
-
-Test From Github
-
-
+# Mercury Testnet
+This repository hold the guides, documents, genesis files, and binary files required to interact with and even run the Mercury Testnet
 
 
 ## About Us
