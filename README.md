@@ -1,10 +1,10 @@
-# Mercury Testnet
+# ReapChain
+
 This repository holds the guides, documents, genesis files, and binary files required to interact with and even run the Mercury Testnet
 
 ## GitBook Tutorials
-You can get started with the Mercury Testnet by accessing all of the required materials through our GitBook.
-Currently you can access this GitBook [here](https://reapchain.gitbook.io/reapchain/).
 
+You can get started with the Mercury Testnet by accessing all of the required materials through our GitBook. Currently you can access this GitBook [here](https://reapchain.gitbook.io/mercury/).
 
 ## About Us
 
@@ -17,4 +17,3 @@ Also, by giving the PID of an object through the Reap SDK, it is possible to sec
 ReapChain is creating a new IoT Blockchain world with technology that has both complete security and transparency.
 
 {% embed url="https://www.youtube.com/watch?v=0VdbTC2w5D8" %}
-
