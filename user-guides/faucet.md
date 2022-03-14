@@ -68,7 +68,7 @@ You need to replace these variables:
 An example:
 
 ```
-./reapchaind query bank balances reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 --node http://3.34.158.5:27100/ --chain-id mercury
+./mercuryd query bank balances reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 --node http://3.34.158.5:27100/ --chain-id mercury
 ```
 
 If successful, the return message should look like this:
