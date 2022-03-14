@@ -11,7 +11,7 @@ There are two ways you can do this
 3. Verify that you are not a robot
 4. Click "Send Coins" which will transfer 10reap to your account
 
-![](../.gitbook/assets/Capture.PNG)
+![](https://imgur.com/GDx53y9)
 
 ### Coin Values
 
