@@ -2,10 +2,10 @@
 
 After receiving some coins from the Faucet, you will now be able to transfer these coins to any other account.&#x20;
 
-The following command is used to interact with the ReapChain TestNet in order to facilitate the transaction.
+The following command is used to interact with the Mercury TestNet in order to facilitate the transaction.
 
 ```
-./reapchaind tx bank send $MY_ADDRESS $RECIPIENT_ADDRESS $AMOUNT --node $NODE_IP --chain-id $CHAIN_ID --fees $FEE_AMOUNT --home $DIRECTORY
+./reapchaind tx bank send $MY_ADDRESS $RECIPIENT_ADDRESS $AMOUNT --node $NODE_IP --chain-id $CHAIN_ID --fees $FEE_AMOUNT --home $DIRECTORY --keyring-backend test
 ```
 
 You will need to change the variables in the command:
@@ -14,14 +14,14 @@ You will need to change the variables in the command:
 2. **$RECIPIENT\_ADDRESS** - The address you want to transfer some coins to
 3. **$AMOUNT** - The amount of coins you want to transfer and also the denomination (200ureap)
 4. **$NODE\_IP** - The IP address for a node in the ReapChain TestNet. Currently you can use [http://3.34.158.5:27100/](http://3.34.158.5:27100)
-5. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "mercury"
+5. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "mercury_9000-1"
 6. **$FEE\_AMOUNT** - The amount of fees you need to pay in order for a successful transaction. Currently the amount you have to pay is 20000ureap.
 7. **$DIRECTORY** - The directory where you stored your keys when you created your account.
 
 An example:
 
 ```
-./reapchaind tx bank send  reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 reap1yklx36ud99wulgd5p805pkg34xsrarwqgtpqx6 200ureap --node http://3.34.158.5:27100/ --chain-id mercury--fees 20000ureap --home test_dir
+./reapchaind tx bank send  reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 reap1yklx36ud99wulgd5p805pkg34xsrarwqgtpqx6 200ureap --node http://3.34.158.5:27100/ --chain-id mercury_9000-1 --fees 20000ureap --home test_dir --keyring-backend test
 ```
 
 If successful the return messages should be:&#x20;
@@ -50,7 +50,7 @@ You need to replace these variables:
 An example:
 
 ```
-./reapchaind query bank balances reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 --node http://3.34.158.5:27100/ --chain-id mercury
+./reapchaind query bank balances reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 --node http://3.34.158.5:27100/ --chain-id mercury_9000-1
 ```
 
 If successful, the return message should look like this:
