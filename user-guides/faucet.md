@@ -18,9 +18,13 @@ There are two ways you can do this
 ### Keplr
 1. Click "Connect with Keplr"
 2. A pop-up to add the TestNet Chain to Keplr will open
+
 ![Imgur](https://i.imgur.com/aWyLM3y.png)
+
 3. If you approve of this, a pop-up to access the chain will open
+
 ![Imgur](https://i.imgur.com/S02XsM7.png)
+
 4. If you approve this pop-up, your address will be automatically entered.
 5. Verify that you are not a robot
 6. Click "Send Coins" which will transfer 10reap to your account
