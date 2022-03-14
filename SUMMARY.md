@@ -10,6 +10,10 @@
 * [Coin Transfer](user-guides/coin-transfer.md)
 * [Node Setup](user-guides/node-setup.md)
 
+## Additional Guides
+* [Keplr](additional-guides/keplr.md)
+* [MetaMask](additional-guides/metamask.md)
+
 ## Developer Guides
 
 * [Private Repository Access](developer-guides/private-repository-access.md)
