@@ -7,7 +7,7 @@ With the mercuryd binary file, you will now be able to create an account and als
 To create an account with its keys you need to execute:
 
 ```
-./reapchaind keys add $ACCOUNT_NAME --home $DIRECTORY --keyring-backend test
+./mercuryd keys add $ACCOUNT_NAME --home $DIRECTORY --keyring-backend test
 ```
 
 Replace $ACCOUNT\_NAME with a preferred name for your account. Also, replace $DIRECTORY with a directory you wish to store your account information.
