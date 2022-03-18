@@ -47,5 +47,4 @@ sed -i "s/persistent_peers = .*/persistent_peers = \"8a360cdeed68ae452346e465201
 
 ./$MERCURY_DAEMON start --home $DATA_PATH
 
-
 ```
