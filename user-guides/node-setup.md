@@ -16,11 +16,11 @@ HOST=$(hostname -I | cut -f 1 -d ' ')
 
 
 CHAIN_ID=mercury_2022-1
-MERCURY_DAEMON= ---DOWNLOADED-MERCURY-BINARY-FILE-PATH---
+MERCURY_DAEMON= ---DOWNLOADED-MERCURY-BINARY-FILE-PATH--- # absolute path
 
 
 rm -rf $DATA_PATH
-./$MERCURY_DAEMON init $NODE_NAME --chain-id $CHAIN_ID --home $DATA_PATH
+$MERCURY_DAEMON init $NODE_NAME --chain-id $CHAIN_ID --home $DATA_PATH
 cp ---DOWNLOADED-GENESIS-FILE---  $DATA_PATH/config/genesis.json
 
 
@@ -42,9 +42,9 @@ sed -i "s/laddr = \"tcp:\/\/127.0.0.1:26657\"/laddr = \"tcp:\/\/$HOST:27100\"/g"
 
 sed -i "s/laddr = \"tcp:\/\/0.0.0.0:26656\"/laddr = \"tcp:\/\/$HOST:27000\"/g" $DATA_PATH/config/config.toml
 
-sed -i "s/persistent_peers = .*/persistent_peers = \"8a360cdeed68ae452346e46520136569a86cd783@3.34.158.5:27000\"/g" $DATA_PATH/config/config.toml
+sed -i "s/persistent_peers = .*/persistent_peers = \"e3bf37d09952b826d77c4a00a317ebf9af8eb4f9@13.124.60.235:27100\"/g" $DATA_PATH/config/config.toml
 
 
-./$MERCURY_DAEMON start --home $DATA_PATH
+$MERCURY_DAEMON start --home $DATA_PATH
 
 ```
