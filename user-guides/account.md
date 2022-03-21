@@ -7,7 +7,7 @@ With the mercuryd binary file, you will now be able to create an account and als
 To create an account with its keys you need to execute:
 
 ```
-./mercuryd keys add $ACCOUNT_NAME --home $DIRECTORY --keyring-backend test
+./reapchaind keys add $ACCOUNT_NAME --home $DIRECTORY --keyring-backend test
 ```
 
 Replace $ACCOUNT\_NAME with a preferred name for your account. Also, replace $DIRECTORY with a directory you wish to store your account information.
@@ -15,7 +15,6 @@ Replace $ACCOUNT\_NAME with a preferred name for your account. Also, replace $DI
 One executed, you will receive this message:
 
 ```
-
 - name: $ACCOUNT_NAME
   type: local
   address: reap1ked7lxalvshf576mzw97l9ccu5ufu6xv703jhv
@@ -27,7 +26,6 @@ One executed, you will receive this message:
 It is the only way to recover your account if you ever forget your password.
 
 clean inflict imitate census fiscal badge another amateur seek power art menu cradle joke grab high wise endless repeat invest judge prison horse scrub
-
 ```
 
 Save this output in a secure location since it contains your mnemonic phrase which allows you to recover your account.

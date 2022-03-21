@@ -15,7 +15,7 @@ NODE_NAME="my-node"
 HOST=$(hostname -I | cut -f 1 -d ' ')
 
 
-CHAIN_ID=mercury_9000-1
+CHAIN_ID=mercury_2022-1
 MERCURY_DAEMON= ---DOWNLOADED-MERCURY-BINARY-FILE-PATH---
 
 
@@ -30,7 +30,7 @@ sed -i 's/address = \"0.0.0.0:9090\"/address = \"'$HOST':9090\"/g' $DATA_PATH/co
 
 sed -i 's/stake/ureap/g' $DATA_PATH/config/genesis.json
 
-sed -i 's/minimum-gas-prices = \"\"/minimum-gas-prices = \"0.1ureap\"/g' $DATA_PATH/config/app.toml
+sed -i 's/minimum-gas-prices = \"\"/minimum-gas-prices = \"0.1areap\"/g' $DATA_PATH/config/app.toml
 
 sed -i 's/enabled-unsafe-cors = false/enabled-unsafe-cors = true/g' $DATA_PATH/config/app.toml
 
