@@ -15,7 +15,7 @@ You will need to change the variables in the command:
 3. **$AMOUNT** - The amount of coins you want to transfer and also the denomination (200ureap)
 4. **$NODE\_IP** - The IP address for a node in the Mercury TestNet. Currently you can use [http://3.34.158.5:27100/](http://3.34.158.5:27100)
 5. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "mercury\_2022-1"
-6. **$FEE\_AMOUNT** - The amount of fees you need to pay in order for a successful transaction. Currently the amount you have to pay is 20000ureap.
+6. **$FEE\_AMOUNT** - The amount of fees you need to pay in order for a successful transaction. Currently the amount you have to pay is 20000areap.
 7. **$DIRECTORY** - The directory where you stored your keys when you created your account.
 
 An example:
