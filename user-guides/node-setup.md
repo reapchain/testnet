@@ -1,4 +1,15 @@
-# Node Setup
+# Join Testnet
+
+### Joining a Testnet
+
+You specify the network you want to join by setting the **genesis file** and **seeds**. If you need more information about past networks, check our [testnets repo](https://github.com/reapchain/testnets)
+
+| Testnet Chain ID | Description                    | Site                                                                      | Version | Status |
+| ---------------- | ------------------------------ | ------------------------------------------------------------------------- | ------- | ------ |
+| mercury\_2022-1  | Reapchain Testnet(with EVM)    | [github](https://github.com/reapchain/testnets/tree/main/mercury\_2022-1) | v0.2.x  | Live   |
+| mercury          | Reapchain Testnet(without EVM) | [github](https://github.com/reapchain/testnets/tree/main/mercury)         | v0.1.x  | Steal  |
+
+
 
 If you would like to setup a general node on your local machine to participate and store data for the Blockchain, the you can do so by following these step:
 
