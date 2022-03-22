@@ -4,10 +4,10 @@
 
 You specify the network you want to join by setting the **genesis file** and **seeds**. If you need more information about past networks, check our [testnets repo](https://github.com/reapchain/testnets)
 
-| Testnet Chain ID | Description                    | Site                                                                      | Version | Status |
-| ---------------- | ------------------------------ | ------------------------------------------------------------------------- | ------- | ------ |
-| mercury\_2022-1  | Reapchain Testnet(with EVM)    | [github](https://github.com/reapchain/testnets/tree/main/mercury\_2022-1) | v0.2.x  | Live   |
-| mercury          | Reapchain Testnet(without EVM) | [github](https://github.com/reapchain/testnets/tree/main/mercury)         | v0.1.x  | Steal  |
+| Testnet Chain ID | Description                    | Site                                                                               | Version | Status |
+| ---------------- | ------------------------------ | ---------------------------------------------------------------------------------- | ------- | ------ |
+| mercury\_2022-1  | Reapchain Testnet(with EVM)    | [mercury\_2022-1](https://github.com/reapchain/testnets/tree/main/mercury\_2022-1) | v0.2.x  | Live   |
+| mercury          | Reapchain Testnet(without EVM) | [mercury](https://github.com/reapchain/testnets/tree/main/mercury)                 | v0.1.x  | Steal  |
 
 
 
