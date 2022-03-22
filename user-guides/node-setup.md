@@ -1,4 +1,15 @@
-# Node Setup
+# Join Testnet
+
+### Joining a Testnet
+
+You specify the network you want to join by setting the **genesis file** and **seeds**. If you need more information about past networks, check our [testnets repo](https://github.com/reapchain/testnets)
+
+| Testnet Chain ID | Description                    | Site                                                                      | Version | Status |
+| ---------------- | ------------------------------ | ------------------------------------------------------------------------- | ------- | ------ |
+| mercury\_2022-1  | Reapchain Testnet(with EVM)    | [github](https://github.com/reapchain/testnets/tree/main/mercury\_2022-1) | v0.2.x  | Live   |
+| mercury          | Reapchain Testnet(without EVM) | [github](https://github.com/reapchain/testnets/tree/main/mercury)         | v0.1.x  | Steal  |
+
+
 
 If you would like to setup a general node on your local machine to participate and store data for the Blockchain, the you can do so by following these step:
 
@@ -15,12 +26,12 @@ NODE_NAME="my-node"
 HOST=$(hostname -I | cut -f 1 -d ' ')
 
 
-CHAIN_ID=mercury_9000-1
-MERCURY_DAEMON= ---DOWNLOADED-MERCURY-BINARY-FILE-PATH---
+CHAIN_ID=mercury_2022-1
+MERCURY_DAEMON= ---DOWNLOADED-MERCURY-BINARY-FILE-PATH--- # absolute path
 
 
 rm -rf $DATA_PATH
-./$MERCURY_DAEMON init $NODE_NAME --chain-id $CHAIN_ID --home $DATA_PATH
+$MERCURY_DAEMON init $NODE_NAME --chain-id $CHAIN_ID --home $DATA_PATH
 cp ---DOWNLOADED-GENESIS-FILE---  $DATA_PATH/config/genesis.json
 
 
@@ -30,7 +41,7 @@ sed -i 's/address = \"0.0.0.0:9090\"/address = \"'$HOST':9090\"/g' $DATA_PATH/co
 
 sed -i 's/stake/ureap/g' $DATA_PATH/config/genesis.json
 
-sed -i 's/minimum-gas-prices = \"\"/minimum-gas-prices = \"0.1ureap\"/g' $DATA_PATH/config/app.toml
+sed -i 's/minimum-gas-prices = \"\"/minimum-gas-prices = \"0.1areap\"/g' $DATA_PATH/config/app.toml
 
 sed -i 's/enabled-unsafe-cors = false/enabled-unsafe-cors = true/g' $DATA_PATH/config/app.toml
 
@@ -42,9 +53,9 @@ sed -i "s/laddr = \"tcp:\/\/127.0.0.1:26657\"/laddr = \"tcp:\/\/$HOST:27100\"/g"
 
 sed -i "s/laddr = \"tcp:\/\/0.0.0.0:26656\"/laddr = \"tcp:\/\/$HOST:27000\"/g" $DATA_PATH/config/config.toml
 
-sed -i "s/persistent_peers = .*/persistent_peers = \"8a360cdeed68ae452346e46520136569a86cd783@3.34.158.5:27000\"/g" $DATA_PATH/config/config.toml
+sed -i "s/persistent_peers = .*/persistent_peers = \"e3bf37d09952b826d77c4a00a317ebf9af8eb4f9@13.124.60.235:27100\"/g" $DATA_PATH/config/config.toml
 
 
-./$MERCURY_DAEMON start --home $DATA_PATH
+$MERCURY_DAEMON start --home $DATA_PATH
 
 ```

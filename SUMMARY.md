@@ -8,9 +8,10 @@
 * [Account](user-guides/account.md)
 * [Faucet](user-guides/faucet.md)
 * [Coin Transfer](user-guides/coin-transfer.md)
-* [Node Setup](user-guides/node-setup.md)
+* [Join Testnet](user-guides/node-setup.md)
 
 ## Additional Guides
+
 * [Keplr](additional-guides/keplr.md)
 * [MetaMask](additional-guides/metamask.md)
 
