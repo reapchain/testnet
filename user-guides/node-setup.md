@@ -53,7 +53,7 @@ sed -i "s/laddr = \"tcp:\/\/127.0.0.1:26657\"/laddr = \"tcp:\/\/$HOST:27100\"/g"
 
 sed -i "s/laddr = \"tcp:\/\/0.0.0.0:26656\"/laddr = \"tcp:\/\/$HOST:27000\"/g" $DATA_PATH/config/config.toml
 
-sed -i "s/persistent_peers = .*/persistent_peers = \"e3bf37d09952b826d77c4a00a317ebf9af8eb4f9@13.124.60.235:27100\"/g" $DATA_PATH/config/config.toml
+sed -i "s/persistent_peers = .*/persistent_peers = \"5271749701173a97e5f24618cff1c2c5a86d4398@3.39.65.126:27100\"/g" $DATA_PATH/config/config.toml
 
 
 $MERCURY_DAEMON start --home $DATA_PATH
