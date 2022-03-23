@@ -9,6 +9,7 @@
 * [Faucet](user-guides/faucet.md)
 * [Coin Transfer](user-guides/coin-transfer.md)
 * [Join Testnet](user-guides/node-setup.md)
+* [Explorer](user-guides/explorer.md)
 
 ## Additional Guides
 
