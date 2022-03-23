@@ -13,7 +13,7 @@ You specify the network you want to join by setting the **genesis file** and **s
 
 If you would like to setup a general node on your local machine to participate and store data for the Blockchain, the you can do so by following these step:
 
-1. Download the Genesis.json file from [here](https://raw.githubusercontent.com/reapchain/testnets/e9f5839fb7d26f036dd5099e49c9b63d0a208b53/genesis.json).
+1. Download the Genesis.json file from [here](https://raw.githubusercontent.com/reapchain/testnets/main/mercury\_2022-1/genesis.json).
 2. Replace "---DOWNLOADED-MERCURY-BINARY-FILE-PATH---" with the path of the downloaded mercury binary file from [here](user-guides/initial-setup.md#binary-file)
 3. Replace "---DOWNLOADED-GENESIS-FILE---" with the path of the downloaded Genesis File
 4. Execute this bash script
