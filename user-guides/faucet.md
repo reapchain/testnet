@@ -19,9 +19,9 @@ If you want to use Keplr wallet, your account must be signed in to Keplr.
 1. Click "Connect with Keplr"
 2. A pop-up to add the TestNet Chain to Keplr will open
 3. If you approve of this, a pop-up to access the chain will open\
-   ![](../.gitbook/assets/체인추가요청.JPG)
+   ![](../.gitbook/assets/RequestingConnection.JPG)
 4. If you approve this pop-up, your address will be automatically entered.\
-   ![](../.gitbook/assets/접근요청.JPG)
+   ![](../.gitbook/assets/ChainAddRequest.JPG)
 5. Verify that you are not a robot
 6. Click "Send Coins" which will transfer 1 reap to your account
 
