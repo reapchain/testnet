@@ -19,5 +19,3 @@ If you would like to setup a general node on your local machine to participate a
 4. Download the reapchain\_Linux\_x86\_64.tar.gz file from [here](../mercury\_2022-1/reapchain\_Linux\_x86\_64.tar.gz) then unzip, you cna get reapchaind binary.
 5. If you follow all the above steps, you can get all the files needed for joining and verification on the Reapchian Testnet
 6. Please execute node_init.sh and node_run.sh, then you will be automatically joined to Reapchain Testnet.
-7. Replace "---DOWNLOADED-GENESIS-FILE---" with the path of the downloaded Genesis File
-8. Execute this bash script
