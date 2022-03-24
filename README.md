@@ -16,4 +16,4 @@ Also, by giving the PID of an object through the Reap SDK, it is possible to sec
 
 ReapChain is creating a new IoT Blockchain world with technology that has both complete security and transparency.
 
-{% embed url="https://www.youtube.com/watch?v=0VdbTC2w5D8" %}
+[![reapchain youtube](https://img.youtube.com/vi/0VdbTC2w5D8/maxresdefault.jpg)](https://www.youtube.com/watch?v=0VdbTC2w5D8)
