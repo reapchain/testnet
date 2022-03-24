@@ -1,3 +1,7 @@
+---
+description: Describes how to use the Cosmos wallet, Keplr.
+---
+
 # Keplr
 
 ### Install & Setting

@@ -1,3 +1,7 @@
+---
+description: Describes how to use the Ethereum wallet, Metamask.
+---
+
 # MetaMask
 
 ### Install & Setting
