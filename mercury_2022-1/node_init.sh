@@ -8,7 +8,7 @@ CHAIN_ID="mercury_2022-1"
 echo -n "Please input seed node host (default seed node host: 3.39.65.126): "
 read -r SEED_HOST
 
-echo -n "Please input seed node id (default seed node id: 900f25656043a30e6f24f5211cf48dc79f96f7e8): "
+echo -n "Please input seed node id (default seed node id: d2be19561b2c01fb5c23f1b0867b71bf1f057924): "
 read -r SEED_NODE_ID
 
 echo -n "Please input seed node reapchain port (default: 27100): "
@@ -39,7 +39,7 @@ if [ $SEED_HOST == ""]; then
 fi
 
 if [ $SEED_NODE_ID == ""]; then
-    SEED_NODE_ID="900f25656043a30e6f24f5211cf48dc79f96f7e8"
+    SEED_NODE_ID="d2be19561b2c01fb5c23f1b0867b71bf1f057924"
 fi
 
 if [ $SEED_REAPCHAIN_PORT == ""]; then
