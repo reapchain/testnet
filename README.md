@@ -1,4 +1,4 @@
-# ReapChain - Martin Edit from Github
+# ReapChain
 
 This repository holds the guides, documents, genesis files, and binary files required to interact with and even run the Mercury Testnet
 
