@@ -22,5 +22,6 @@ description: Describes how to use the Cosmos wallet, Keplr.
    \- Amount\
    \- Memo (Optional)\
    \- Fee : Click "Set Gas" at the bottom right and change the gas value from 80000 to 100000\
+   &#x20; \* If you do not set up enough GAS, the transaction may fail and you may end up paying only fees.\
    ![](../.gitbook/assets/change\_gas.JPG)
 5. Click the Send Button and check the transaction result
