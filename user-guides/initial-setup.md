@@ -19,7 +19,7 @@ md5sum reapchain_Linux_x86_64.tar.gz
 Your output must match the one shown below:
 
 ```
-a2cb6468c612ee6a5fa5194c58d28c40  reapchain_Linux_x86_64.tar.gz
+83d8d3a4961dce196459185ea1d31d70 reapchain_Linux_x86_64.tar.gz
 ```
 
 If you want to compile your own binary package, please visit the Developers Guide section.
