@@ -13,15 +13,15 @@ You will need to change the variables in the command:
 1. **$MY\_ADDRESS** - Your address for your account
 2. **$RECIPIENT\_ADDRESS** - The address you want to transfer some coins to
 3. **$AMOUNT** - The amount of coins you want to transfer and also the denomination (200areap)
-4. **$NODE\_IP** - The IP address for a node in the Mercury TestNet. Currently you can use http://13.124.60.235:27000
-5. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "mercury\_2022-1"
+4. **$NODE\_IP** - The IP address for a node in the Mercury TestNet. Currently you can use http://13.125.20.241:27000
+5. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "mercury_2022-3"
 6. **$FEE\_AMOUNT** - The amount of fees you need to pay in order for a successful transaction. Currently the amount you have to pay is 150000areap.
 7. **$DIRECTORY** - The directory where you stored your keys when you created your account.
 
 An example:
 
 ```
-./reapchiand tx bank send  reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 reap1yklx36ud99wulgd5p805pkg34xsrarwqgtpqx6 200ureap --node http://3.34.158.5:27100/ --chain-id mercury_2022-1 --fees 20000areap --home test_dir --keyring-backend test
+./reapchiand tx bank send  reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 reap1yklx36ud99wulgd5p805pkg34xsrarwqgtpqx6 200ureap --node http://13.125.20.241:27000/ --chain-id mercury_2022-3 --fees 20000areap --home test_dir --keyring-backend test
 ```
 
 If successful the return messages should be:
@@ -44,13 +44,13 @@ In order to check your balance, you need to execute this command:
 You need to replace these variables:
 
 1. **$MY\_ADDRESS** - Your address for your account
-2. **$NODE\_IP** - The IP address for a node in the Mercury TestNet. Currently you can use http://13.124.60.235:27000
-3. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "mercury"
+2. **$NODE\_IP** - The IP address for a node in the Mercury TestNet. Currently you can use http://13.125.20.241:27000
+3. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "mercury_2022-3"
 
 An example:
 
 ```
-./reapchaind query bank balances reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 --node http://3.34.158.5:27100/ --chain-id mercury_2022-1
+./reapchaind query bank balances reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 --node http://13.125.20.241:27000/ --chain-id mercury_2022-3
 ```
 
 If successful, the return message should look like this:
