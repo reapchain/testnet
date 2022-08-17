@@ -8,12 +8,12 @@ This page, acting as a lite explorer, helps you to search and view activity reco
 
 #### Block List
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (8).png>)
 
 #### Block Info
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1).png>)
 
 #### Transaction Info
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3).png>)

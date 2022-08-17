@@ -10,15 +10,18 @@
 * [Coin Transfer](user-guides/coin-transfer.md)
 * [Explorer](user-guides/explorer.md)
 * [Dashboard](user-guides/dashboard/README.md)
-  * [Summary](user-guides/dashboard/summary.md)
-  * [Blocks](user-guides/dashboard/blocks.md)
-  * [My Account](user-guides/dashboard/my-account.md)
-  * [Staking](user-guides/dashboard/staking.md)
-  * [Uptime](user-guides/dashboard/uptime.md)
+  * [Pages](user-guides/dashboard/pages/README.md)
+    * [Summary](user-guides/dashboard/pages/summary.md)
+    * [Blocks](user-guides/dashboard/pages/blocks.md)
+    * [My Account](user-guides/dashboard/pages/my-account.md)
+    * [Staking](user-guides/dashboard/pages/staking.md)
+    * [Uptime](user-guides/dashboard/pages/uptime.md)
+  * [How To Use](user-guides/dashboard/how-to-use.md)
 
 ## Additional Guides
 
-* [Keplr](additional-guides/keplr.md)
+* [Keplr](additional-guides/keplr/README.md)
+  * [Install & Account Setup](additional-guides/keplr/install-and-account-setup.md)
 * [MetaMask](additional-guides/metamask.md)
 
 ## Developer Guides

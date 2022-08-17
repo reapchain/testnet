@@ -8,7 +8,7 @@ You can also request transactions related to transfer and delegation.
 
 ### Screen Shot
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (2).png>)
 
 
 
