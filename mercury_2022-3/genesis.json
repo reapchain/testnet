@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2022-08-09T06:14:51.68807000Z",
+  "genesis_time": "2022-08-12T06:01:47.97835800Z",
   "chain_id": "mercury_2022-3",
   "initial_height": "1",
   "consensus_params": {
@@ -22,180 +22,180 @@
   },
   "validators": [
     {
-      "address": "15A46B2E7CA096A96DF04E2890DCA9CBB8EEDC1B",
+      "address": "9A5F04ADB4B6DDFE7E49D36696E66C2EEE2986B8",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "tppJlX7ZXd1x8evCD3xJmc2Tnujs4UaqypdyrHqwcAQ="
+        "value": "ulrtthm03EZ7CBLPKy6jy2C4Jh8t0DAb+VuMmyYqGS4="
       },
       "type": "",
       "power": "10",
       "name": "standing0"
     },
     {
-      "address": "6F0401A62B60BD18FE0C2C1782529343F54CAA60",
+      "address": "42591B22B8E7BAA8F7880385F3D9620EDD3CC9B8",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "WR9vW6XoSuPcwRxtbm1DXZjiu03VIUC63pkSrCnZG9w="
+        "value": "9sD84O6B90CPPnls8eVg6RUw/yXFjD/wsVDjZKDg2FY="
       },
       "type": "",
       "power": "10",
       "name": "standing1"
     },
     {
-      "address": "43F99264FB53A88E9D0BC34066E9A50C3C8D2317",
+      "address": "81146778FB8B68E9285BC06BED82B08B727D05F7",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "OUZzm+4PhcKS77OtlBpkU2RdrI7XhHpMw74GxQ0h1v0="
+        "value": "GsMzgCarOYxEO72QdZUmnkAC0l75COkDbEY9WNcPPz0="
       },
       "type": "",
       "power": "10",
       "name": "standing2"
     },
     {
-      "address": "6A12BACFB996A443527C97840969A89967985D4E",
+      "address": "0AE90D0599F95E4C1A1681937AE33FAEB404D14F",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "Hdm1NkpOvHB0Qb9eFii/dxXv/0ypySFf9xyrQEdVYtc="
+        "value": "DP1SnpsxGida+QzmuDTAmxuLZ9FOUYXWAhd0I8Xj0Jw="
       },
       "type": "",
       "power": "10",
       "name": "standing3"
     },
     {
-      "address": "48F6E8380D58826FE701B69DE22010A47E9BB023",
+      "address": "745E8CBD5D396FBC0F62E76147EA5D1334F87562",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "Q+345NHotuXUKd1ld0qScrPQhq45TqNg5YN0UAv8/6A="
+        "value": "xbit/vScnXIDetqhi5zBOsCvU8D6zkmYhKTTxT9MGfs="
       },
       "type": "",
       "power": "10",
       "name": "standing4"
     },
     {
-      "address": "3D681907C66F36BAD337645641B4F3D3673E1305",
+      "address": "3243EC1BFC78BCC7C86B699C0F9BE3F280802931",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "Jwo8Gf7krciQjvd/rjrD1D2kPvdqXVRv1ozWL/1aH/Q="
+        "value": "GCepZ1SeDkiclCgzE7B80p8kZ/bl5+14UtGHsA7L17g="
       },
       "type": "",
       "power": "10",
       "name": "standing5"
     },
     {
-      "address": "57E110ACD298F173B07AF7DD40A94021D5F9DE2D",
+      "address": "F36715C99BA60932134377F46E7FF9980255955C",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "WT2oEQdt2YsccS1jXAliK11VVP2kJVpXMndJsKAXSlc="
+        "value": "NvqHq6NhJ040+CveZNJbBq41+ekz1go9B60xCNjO0yI="
       },
       "type": "",
       "power": "10",
       "name": "standing6"
     },
     {
-      "address": "7723A4219955A082F2E01395FD09BCC159B3251E",
+      "address": "446DED19C713B7FD5807AD6DF89873DAA7099813",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "l/V44mo9j4hpBTsA6KFI29ur/8ftlYgnSI10LfDPiQE="
+        "value": "djHpJn0Uc52PM0MxIqx8ez/9MNHmP0lDYklAMOVQpC8="
       },
       "type": "",
       "power": "10",
       "name": "standing7"
     },
     {
-      "address": "D0F46D9055F69D5C824DC12F94E1B1C16B10B8E7",
+      "address": "0892982720C4812409B0AE100ABCD40693DA73BB",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "csEyvvSkp7p+lEwgx36LGXtIUTf1/WfPAvCH6dqdbsE="
+        "value": "W2F57vaEVLxLUL8ljbt60siOt6E5bsoAs3Ap0f2vmFU="
       },
       "type": "",
       "power": "10",
       "name": "standing8"
     },
     {
-      "address": "85C7A41ADA9848DEA052A64332F98E2AA17240E9",
+      "address": "4D8841CF8CEE66D4B2412BC77E6F09A30F473F3E",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "1XJFNgLVrqljiU/u0F+geGk02UbOCQSCTG9YPm/Dzto="
+        "value": "q1i0Wr+QwbKfZrS8R9bHpg29MSsXs0R0XRNGi77dCv8="
       },
       "type": "",
       "power": "10",
       "name": "standing9"
     },
     {
-      "address": "516921164EDA7A14D24679494AEC3B208DCE6819",
+      "address": "A38E22F8A627DEF8C2B0D973D54FA2D2EDA1C98D",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "iz4KXGYHbwNYLC9s3YJ3f04iirGklaGw2zpr/8d0FiE="
+        "value": "DdDTicl492ONQv6ABTT6pseiQzcEwktZq5ihBfoJHdw="
       },
       "type": "",
       "power": "10",
       "name": "standing10"
     },
     {
-      "address": "041153B30D140EA6382489B903F9DCE35A6760C6",
+      "address": "06B4BA8AD3481AF0B9342EF581CD006728244118",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "ZgDZfpvIc33HCS02yZoS1iPeIzBlqMYuQyhfWcUW/7g="
+        "value": "4olmGhOWa+t0NELDasmS+myNXVU4f92Et/jAlmDlQ5E="
       },
       "type": "",
       "power": "10",
       "name": "standing11"
     },
     {
-      "address": "899B3813BC319A1C94EA30178DFBBC0948E8B20B",
+      "address": "65D05A6451BFCDBEF383FE3E1130C172D0B40A41",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "CijcPJ5A83Ue5gqgFysw/q7cKqso2pVN5sQugkeAETY="
+        "value": "VVaZDZ7H0z8BPYUVtyT+bHlBal3tfjmeYA0Ygadg/YU="
       },
       "type": "",
       "power": "10",
       "name": "standing12"
     },
     {
-      "address": "4D5E6C513BBEF415A8B4CB699B2DB667F3E84189",
+      "address": "0EDDC4386683321CCBA21B5D824686767472046D",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "PWQDNDdiPfUGaiXK1sdbYpKr7twhEIpIz+PkUK1tpoo="
+        "value": "Jzxa7zp/laUFe2p4+2RX/46o/yafdHVhugDqnQqazNg="
       },
       "type": "",
       "power": "10",
       "name": "standing13"
     },
     {
-      "address": "15916E432D1E1A5EFA9917D748922B84849358F6",
+      "address": "AFF7FCD30CFA7C2906DE2DC6A276BEDAE132CFA7",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "JgA3loVRy58ePEroZXPSPrvZL8q9Ov+DPIspEs7IdI8="
+        "value": "dd6Gm3OayFDyvOxj5Oxgpk63MZ1vY+lfvFQCE83dQTE="
       },
       "type": "",
       "power": "10",
       "name": "steering14"
     },
     {
-      "address": "13AC1FDAAE1F9EE0945166B4F07C765FA35FCB1A",
+      "address": "D6C1228D0E55543139E00A2E37370DEF05D9FA48",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "zq/dOyJ6Mjl5j/T77X4QFncVe9f5JiGGaGXZcIGk1sY="
+        "value": "pCLj3CSsT6BjcUtN13twiO1RT5dovNVFwsSmygJPqIE="
       },
       "type": "",
       "power": "10",
       "name": "steering15"
     },
     {
-      "address": "3A6924D9122A648A2943C4B7F48A2B44224DD841",
+      "address": "1F5A0123C777C5F951B71389C1D56A6D62204B8B",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "tCdhK87yKfx4VXA0ci6iE75Zb56c2JmOgCaq80XDpSQ="
+        "value": "W16PdQLOrcLAYiCSjweIBGyzomY1LrlbBp9HQz6xlYc="
       },
       "type": "",
       "power": "10",
       "name": "steering16"
     },
     {
-      "address": "7944403C013FC5F0667BFE4F1E3336727E9B7540",
+      "address": "776BE369BA2DE5AF8C6F513BAB4C49967CB9CDE4",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "/TfCjT5Wrnt2sw62ybcxs+BvZFEIg5z0G27lL6i/FmA="
+        "value": "OWHYHLmzGUajJytzk52j2zgmzMbZv7YclNn2qf+VgzI="
       },
       "type": "",
       "power": "10",
@@ -216,7 +216,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap12cfx7ahvh0kt6n8tget6u62djldfhvvtgct8ct",
+            "address": "reap15hynla7qvw579wqmkufd5gsant6c2l8ywvq5qg",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -226,7 +226,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap1ke0k36nm9m45uwmq9m7raz89uuqajmx5ars6y2",
+            "address": "reap15j0y2mhcpg5cuqa0zfywfkkwvmwwqyfhufanl0",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -236,7 +236,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap1ml8hcznt8py0f2d8t40gv7nw7jcac57t6rc0z8",
+            "address": "reap1mc5exgcm4q3cry4h5dlxm7ttejj4d3gvjpvg36",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -246,7 +246,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap17xvxttr5tleu2rqd3649vrpsvx45zzz6zjc8uu",
+            "address": "reap1kz4vvwdkjrz4n3g0vcxke080hwv45gct07rxzz",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -256,7 +256,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap1ncjks3jj07z4gr5qvqskkad6v8gj2edtnmu57p",
+            "address": "reap1wt7l4kver34m2jwyd9th9hk8pnq9vclcwlu0ma",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -266,7 +266,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap1tca66zmasz5xwkuw7seg3reht2land9admx8ej",
+            "address": "reap1aynhzf4kprnfj3y96dfmmqgankjkx2auwpxunr",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -276,7 +276,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap13557gcpf0dquhwd5s0ew9pvenv8prdmmpf8sj4",
+            "address": "reap1tfjqn88caa2w8vumdmy5pnfy4crj79qajufkxx",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -286,7 +286,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap1n0lts6dmt6ne0x0zhcum2gcu0c2pggzmvamuna",
+            "address": "reap1wpd0vv8waya2z5avsyjqhlkvph3myxcrwlf59k",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -296,7 +296,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap12qzucap39r7yshfn0vq9w8wecchgqqy0hmm833",
+            "address": "reap186j69hn5ugcfq3nvxyl376k5n4xacdn0e6tq0x",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -306,7 +306,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap17fj03ux5dx8zv2uc7wvnnsgcwwx82mrdy6mdte",
+            "address": "reap1yxc80vtxnp9cek3lre37l2x2pcpj7qsgg0j095",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -316,7 +316,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap1v7pxca38nepa4vqcr2url0ymp70t5tvcs8cw7r",
+            "address": "reap1x4zlmlr75zqt00nnwdsxx8alkwzxavc9mt842n",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -326,7 +326,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap1d9y7pwca28hnuyuczw0d42m7mfv65q88vdpcxm",
+            "address": "reap17ww099e9ss2w5nshf37zrljr3adytvqtcnh79n",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -336,7 +336,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap1cws3zql8u9usfee8r29pqu3zyku65adn2cnx4l",
+            "address": "reap1xp3zqn0q56td4huzmf0x439mz04gzxva9cn427",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -346,7 +346,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap1n385mxg0dpk0f53vde7h080nf6wjugagusy9lx",
+            "address": "reap1cjcld344x8n5dhc5kw94ffv4ujgvcw334lag5a",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -356,7 +356,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap1lxhv8r9x6zgtfsd9j3rw8w0zl0exjsagqmgn6e",
+            "address": "reap1hwe9v29u79m60mgyepp2auq90zwjm4zjumspdh",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -366,7 +366,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap142krkln8czj3ypwe40jn84ysdrr3w8k2q33a8s",
+            "address": "reap1pm7y6sc54talxjyt35qlqpkq724zzjzu45gqx4",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -376,7 +376,7 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap106zcqj2y4puz8fctxpmq99lyax75dn83p4d0pf",
+            "address": "reap12h82p68uj8044x4wcgfkvr4q2mu3dj3sjy5kpq",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
@@ -386,12 +386,32 @@
         {
           "@type": "/ethermint.types.v1.EthAccount",
           "base_account": {
-            "address": "reap1cm6ejv7n3kauj35yuewge7x9cf6e62e4kvm44e",
+            "address": "reap1pr9qlrjkrcfqxda3d7sdp47etfsrm59gmkxwqh",
             "pub_key": null,
             "account_number": "0",
             "sequence": "0"
           },
           "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+        },
+        {
+          "@type": "/ethermint.types.v1.EthAccount",
+          "base_account": {
+            "address": "reap1ty0wn9yfl5q93qngx8alk9d72t26mp2yt24sa2",
+            "pub_key": null,
+            "account_number": "0",
+            "sequence": "0"
+          },
+          "code_hash": ""
+        },
+        {
+          "@type": "/ethermint.types.v1.EthAccount",
+          "base_account": {
+            "address": "reap1w92fjswvtmg0yds8352de9td2ajy888q2wpcnm",
+            "pub_key": null,
+            "account_number": "0",
+            "sequence": "0"
+          },
+          "code_hash": ""
         }
       ]
     },
@@ -405,7 +425,7 @@
       },
       "balances": [
         {
-          "address": "reap12cfx7ahvh0kt6n8tget6u62djldfhvvtgct8ct",
+          "address": "reap15hynla7qvw579wqmkufd5gsant6c2l8ywvq5qg",
           "coins": [
             {
               "denom": "areap",
@@ -414,7 +434,7 @@
           ]
         },
         {
-          "address": "reap1ke0k36nm9m45uwmq9m7raz89uuqajmx5ars6y2",
+          "address": "reap15j0y2mhcpg5cuqa0zfywfkkwvmwwqyfhufanl0",
           "coins": [
             {
               "denom": "areap",
@@ -423,7 +443,7 @@
           ]
         },
         {
-          "address": "reap1ml8hcznt8py0f2d8t40gv7nw7jcac57t6rc0z8",
+          "address": "reap1mc5exgcm4q3cry4h5dlxm7ttejj4d3gvjpvg36",
           "coins": [
             {
               "denom": "areap",
@@ -432,7 +452,7 @@
           ]
         },
         {
-          "address": "reap17xvxttr5tleu2rqd3649vrpsvx45zzz6zjc8uu",
+          "address": "reap1kz4vvwdkjrz4n3g0vcxke080hwv45gct07rxzz",
           "coins": [
             {
               "denom": "areap",
@@ -441,7 +461,7 @@
           ]
         },
         {
-          "address": "reap1ncjks3jj07z4gr5qvqskkad6v8gj2edtnmu57p",
+          "address": "reap1wt7l4kver34m2jwyd9th9hk8pnq9vclcwlu0ma",
           "coins": [
             {
               "denom": "areap",
@@ -450,7 +470,7 @@
           ]
         },
         {
-          "address": "reap1tca66zmasz5xwkuw7seg3reht2land9admx8ej",
+          "address": "reap1aynhzf4kprnfj3y96dfmmqgankjkx2auwpxunr",
           "coins": [
             {
               "denom": "areap",
@@ -459,7 +479,7 @@
           ]
         },
         {
-          "address": "reap13557gcpf0dquhwd5s0ew9pvenv8prdmmpf8sj4",
+          "address": "reap1tfjqn88caa2w8vumdmy5pnfy4crj79qajufkxx",
           "coins": [
             {
               "denom": "areap",
@@ -468,7 +488,7 @@
           ]
         },
         {
-          "address": "reap1n0lts6dmt6ne0x0zhcum2gcu0c2pggzmvamuna",
+          "address": "reap1wpd0vv8waya2z5avsyjqhlkvph3myxcrwlf59k",
           "coins": [
             {
               "denom": "areap",
@@ -477,7 +497,7 @@
           ]
         },
         {
-          "address": "reap12qzucap39r7yshfn0vq9w8wecchgqqy0hmm833",
+          "address": "reap186j69hn5ugcfq3nvxyl376k5n4xacdn0e6tq0x",
           "coins": [
             {
               "denom": "areap",
@@ -486,7 +506,7 @@
           ]
         },
         {
-          "address": "reap17fj03ux5dx8zv2uc7wvnnsgcwwx82mrdy6mdte",
+          "address": "reap1yxc80vtxnp9cek3lre37l2x2pcpj7qsgg0j095",
           "coins": [
             {
               "denom": "areap",
@@ -495,7 +515,7 @@
           ]
         },
         {
-          "address": "reap1v7pxca38nepa4vqcr2url0ymp70t5tvcs8cw7r",
+          "address": "reap1x4zlmlr75zqt00nnwdsxx8alkwzxavc9mt842n",
           "coins": [
             {
               "denom": "areap",
@@ -504,7 +524,7 @@
           ]
         },
         {
-          "address": "reap1d9y7pwca28hnuyuczw0d42m7mfv65q88vdpcxm",
+          "address": "reap17ww099e9ss2w5nshf37zrljr3adytvqtcnh79n",
           "coins": [
             {
               "denom": "areap",
@@ -513,7 +533,7 @@
           ]
         },
         {
-          "address": "reap1cws3zql8u9usfee8r29pqu3zyku65adn2cnx4l",
+          "address": "reap1xp3zqn0q56td4huzmf0x439mz04gzxva9cn427",
           "coins": [
             {
               "denom": "areap",
@@ -522,7 +542,7 @@
           ]
         },
         {
-          "address": "reap1n385mxg0dpk0f53vde7h080nf6wjugagusy9lx",
+          "address": "reap1cjcld344x8n5dhc5kw94ffv4ujgvcw334lag5a",
           "coins": [
             {
               "denom": "areap",
@@ -531,7 +551,7 @@
           ]
         },
         {
-          "address": "reap1lxhv8r9x6zgtfsd9j3rw8w0zl0exjsagqmgn6e",
+          "address": "reap1hwe9v29u79m60mgyepp2auq90zwjm4zjumspdh",
           "coins": [
             {
               "denom": "areap",
@@ -540,7 +560,7 @@
           ]
         },
         {
-          "address": "reap142krkln8czj3ypwe40jn84ysdrr3w8k2q33a8s",
+          "address": "reap1pm7y6sc54talxjyt35qlqpkq724zzjzu45gqx4",
           "coins": [
             {
               "denom": "areap",
@@ -549,7 +569,7 @@
           ]
         },
         {
-          "address": "reap106zcqj2y4puz8fctxpmq99lyax75dn83p4d0pf",
+          "address": "reap12h82p68uj8044x4wcgfkvr4q2mu3dj3sjy5kpq",
           "coins": [
             {
               "denom": "areap",
@@ -558,7 +578,7 @@
           ]
         },
         {
-          "address": "reap1cm6ejv7n3kauj35yuewge7x9cf6e62e4kvm44e",
+          "address": "reap1pr9qlrjkrcfqxda3d7sdp47etfsrm59gmkxwqh",
           "coins": [
             {
               "denom": "areap",
@@ -570,7 +590,16 @@
           "address": "reap1ty0wn9yfl5q93qngx8alk9d72t26mp2yt24sa2",
           "coins": [
             {
-              "amount": "1186600000000000000000000000",
+              "amount": "593300000000000000000000000",
+              "denom": "areap"
+            }
+          ]
+        },
+        {
+          "address": "reap1w92fjswvtmg0yds8352de9td2ajy888q2wpcnm",
+          "coins": [
+            {
+              "amount": "593300000000000000000000000",
               "denom": "areap"
             }
           ]
@@ -726,11 +755,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap12cfx7ahvh0kt6n8tget6u62djldfhvvtgct8ct",
-                "validator_address": "reapvaloper12cfx7ahvh0kt6n8tget6u62djldfhvvt2dpvq8",
+                "delegator_address": "reap15hynla7qvw579wqmkufd5gsant6c2l8ywvq5qg",
+                "validator_address": "reapvaloper15hynla7qvw579wqmkufd5gsant6c2l8yve2lcy",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "tppJlX7ZXd1x8evCD3xJmc2Tnujs4UaqypdyrHqwcAQ="
+                  "key": "ulrtthm03EZ7CBLPKy6jy2C4Jh8t0DAb+VuMmyYqGS4="
                 },
                 "value": {
                   "denom": "areap",
@@ -739,7 +768,7 @@
                 "validator_type": "standing"
               }
             ],
-            "memo": "36b161a2699a994d8410c89868650ff685d8f7af@192.168.250.22:26656",
+            "memo": "c2767cd5626dc5d31a0691749e87bc18b5ac67e4@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -749,7 +778,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "A3u/8xTMjpFxVzS+Rla7NgpiA+A9QpGVMTwWc3Tjggsk"
+                  "key": "AtXdx/PEKjPAIWDd3iGlxt8f/ws+KtOoKcFTGYd9FvAi"
                 },
                 "mode_info": {
                   "single": {
@@ -767,7 +796,7 @@
             }
           },
           "signatures": [
-            "dy2PcC9L76zPVYGaRFIAXTHMOd4HPYx9Gv4obV6Ozh48nwCcqBeO7mPUbS1AojuSPn69ytWhlLFOsOidVAnWWQA="
+            "mqnijx9iazpe7X7Li6tAlbbCaf4kFQky//qSIqvYSKoQaAMudpgFKotDtaHAWE4AMmfgMP50j+1nunWr6iGTdgE="
           ]
         },
         {
@@ -788,11 +817,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap1ke0k36nm9m45uwmq9m7raz89uuqajmx5ars6y2",
-                "validator_address": "reapvaloper1ke0k36nm9m45uwmq9m7raz89uuqajmx5lk63ux",
+                "delegator_address": "reap15j0y2mhcpg5cuqa0zfywfkkwvmwwqyfhufanl0",
+                "validator_address": "reapvaloper15j0y2mhcpg5cuqa0zfywfkkwvmwwqyfh7uhc8r",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "WR9vW6XoSuPcwRxtbm1DXZjiu03VIUC63pkSrCnZG9w="
+                  "key": "9sD84O6B90CPPnls8eVg6RUw/yXFjD/wsVDjZKDg2FY="
                 },
                 "value": {
                   "denom": "areap",
@@ -801,7 +830,7 @@
                 "validator_type": "standing"
               }
             ],
-            "memo": "e0afcc6888d88408a4061b11c25ba7c4a6f20c85@192.168.250.22:26656",
+            "memo": "bc7f8a5bf4ae7b052962fc5e508c8601d44fc0d6@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -811,7 +840,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "Aw56BAMtjw8b/rL3r2KWd31JcQKRLBePqJk0DRlGvRwR"
+                  "key": "Ag67OYu9CyCjNCQjZlbrNOjRy5mzfjDnnsq5EeKYZ3h7"
                 },
                 "mode_info": {
                   "single": {
@@ -829,7 +858,7 @@
             }
           },
           "signatures": [
-            "+8/f1dVu1vvHXUu77gFluVJRsVjRjQuE+zDj6hUaHvBOurKkluSzAraXYMdH5RIDP9kK5OalqE19nAbQWtt4dAE="
+            "5JShzEbkWx0m4JCAPOoLGLkh86NiwwmRYrFmlujBko4oM0dmZBiOY5xdEPBwGKaWrABCqTlCqRCgXbXRV8Xr0AA="
           ]
         },
         {
@@ -850,11 +879,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap1ml8hcznt8py0f2d8t40gv7nw7jcac57t6rc0z8",
-                "validator_address": "reapvaloper1ml8hcznt8py0f2d8t40gv7nw7jcac57tckjy6t",
+                "delegator_address": "reap1mc5exgcm4q3cry4h5dlxm7ttejj4d3gvjpvg36",
+                "validator_address": "reapvaloper1mc5exgcm4q3cry4h5dlxm7ttejj4d3gvs5xrfk",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "OUZzm+4PhcKS77OtlBpkU2RdrI7XhHpMw74GxQ0h1v0="
+                  "key": "GsMzgCarOYxEO72QdZUmnkAC0l75COkDbEY9WNcPPz0="
                 },
                 "value": {
                   "denom": "areap",
@@ -863,7 +892,7 @@
                 "validator_type": "standing"
               }
             ],
-            "memo": "63c74b3d0bf09f35fdea98028c262462a5c93a36@192.168.250.22:26656",
+            "memo": "e657832423928460be860afba8a45cb476cba8f3@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -873,7 +902,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "AkBRBH1ogbUDXt6vfuPLlW8eI1JOQ8kUkvKYq0TrPv3Q"
+                  "key": "A1/0AHLL6oePt+fHS4fkPHSKaXcOGQBDty6pwceBhdr5"
                 },
                 "mode_info": {
                   "single": {
@@ -891,7 +920,7 @@
             }
           },
           "signatures": [
-            "zBf9bSPB5vuso6/KVlkX5ogEIulOfnTkvLHCjWdZRe8hNCrtmHgDzNYTpvbVWH0ozsVOpUVrxGyEsoDPnTkIIgE="
+            "hoRX+WqRIV2sHBYEPfW4UEfqO9zHennyuBevoYYyhY4/VEJSQe4LsdgtVfW3Hlr6cyM7JcyMxR18ige2gb78hwA="
           ]
         },
         {
@@ -912,11 +941,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap17xvxttr5tleu2rqd3649vrpsvx45zzz6zjc8uu",
-                "validator_address": "reapvaloper17xvxttr5tleu2rqd3649vrpsvx45zzz6q8jvys",
+                "delegator_address": "reap1kz4vvwdkjrz4n3g0vcxke080hwv45gct07rxzz",
+                "validator_address": "reapvaloper1kz4vvwdkjrz4n3g0vcxke080hwv45gctdtfd6w",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "Hdm1NkpOvHB0Qb9eFii/dxXv/0ypySFf9xyrQEdVYtc="
+                  "key": "DP1SnpsxGida+QzmuDTAmxuLZ9FOUYXWAhd0I8Xj0Jw="
                 },
                 "value": {
                   "denom": "areap",
@@ -925,7 +954,7 @@
                 "validator_type": "standing"
               }
             ],
-            "memo": "e85d3d460296e6f35e42e2dfee2aed96a5cfde30@192.168.250.22:26656",
+            "memo": "404be4aacaff0b8cfe80774fbdfb3a5783f9293c@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -935,7 +964,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "AhVTbu5tkNDph/3Evxgv72+BYMSFB6EK+xZDl6Znt0SF"
+                  "key": "A8+TQn9ia9C0EEWoL0fA5HifDaFhjCLmfA/N1byhSMTp"
                 },
                 "mode_info": {
                   "single": {
@@ -953,7 +982,7 @@
             }
           },
           "signatures": [
-            "sFkzakFYu2vRkX1XuB0wHi6CKJPoFoqNSXJK46h0u4JMjuT7SYb3q07EthhVQD/F735a8upUGHz37tPCM0zMrgE="
+            "pSg2/CV9sLFkHHxJeDQZtu++9y97BTpIG3LBXh+3bdJRVTFnRKXj6VXKbODgQi/yJvol7X2imOK8o8btven8RgE="
           ]
         },
         {
@@ -974,11 +1003,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap1ncjks3jj07z4gr5qvqskkad6v8gj2edtnmu57p",
-                "validator_address": "reapvaloper1ncjks3jj07z4gr5qvqskkad6v8gj2edt3wklxd",
+                "delegator_address": "reap1wt7l4kver34m2jwyd9th9hk8pnq9vclcwlu0ma",
+                "validator_address": "reapvaloper1wt7l4kver34m2jwyd9th9hk8pnq9vclcv2kyr3",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "Q+345NHotuXUKd1ld0qScrPQhq45TqNg5YN0UAv8/6A="
+                  "key": "xbit/vScnXIDetqhi5zBOsCvU8D6zkmYhKTTxT9MGfs="
                 },
                 "value": {
                   "denom": "areap",
@@ -987,7 +1016,7 @@
                 "validator_type": "standing"
               }
             ],
-            "memo": "e75fb2263b74c70ab5a4d2d5bd8c8510e520268e@192.168.250.22:26656",
+            "memo": "f849bc04e95dd93294dc74ac7e80805671a786ee@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -997,7 +1026,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "Aj2XYgQnFdhR3TXKcBH9X9oIvO5crm27H9/shvN2ZrZL"
+                  "key": "ArTgw+dQg44RDm2XCdK7dMYCBDbNAxTARiPGmxj37bxb"
                 },
                 "mode_info": {
                   "single": {
@@ -1015,7 +1044,7 @@
             }
           },
           "signatures": [
-            "DiPLCpqD9BhsfPVQvINjwdRS6WSsAkUhK6Dew0ECGHJEc/pEjq+8eiWZrRXcu3UOzU3Ah5T417j8aqqNUJ77agA="
+            "upFOub540AREabS0xuwubZA9mZifpeJFTHDVSVBXsnJFuTIcb2J0Zw2s6DGOUYiACQm3Gc/QpXMaIDYJPqsd6gE="
           ]
         },
         {
@@ -1036,11 +1065,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap1tca66zmasz5xwkuw7seg3reht2land9admx8ej",
-                "validator_address": "reapvaloper1tca66zmasz5xwkuw7seg3reht2land9a0wvvp7",
+                "delegator_address": "reap1aynhzf4kprnfj3y96dfmmqgankjkx2auwpxunr",
+                "validator_address": "reapvaloper1aynhzf4kprnfj3y96dfmmqgankjkx2auv5vht0",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "Jwo8Gf7krciQjvd/rjrD1D2kPvdqXVRv1ozWL/1aH/Q="
+                  "key": "GCepZ1SeDkiclCgzE7B80p8kZ/bl5+14UtGHsA7L17g="
                 },
                 "value": {
                   "denom": "areap",
@@ -1049,7 +1078,7 @@
                 "validator_type": "standing"
               }
             ],
-            "memo": "ca5d9890b07464dc07df6f242807cec7254d812e@192.168.250.22:26656",
+            "memo": "07c4037ab0a31b39c0ef786d175179669c2a5e23@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -1059,7 +1088,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "A7XScgHkFl28zzogaRQaP9v+ht9hx/WN8s5K3Yy6JC01"
+                  "key": "Asw8JihzXNMK0YKJbenHr5pvPT4lleypQQQVRffbV3SY"
                 },
                 "mode_info": {
                   "single": {
@@ -1077,7 +1106,7 @@
             }
           },
           "signatures": [
-            "LQcHDqwgRa2nepwuyBOVH8OlIYY6MLb/zENT85JauSEu4jM0qo/RYAVKwypRTdzghxb0toJG8Z5pn/D72m/TEwA="
+            "fAjMybM+oilbmKYlyKann5nfEdhrfTPOzJaTCp5Agbh9Hp930h/tNIsQbpTM2CcyD8gVBg/2OodMuzZu3JqTAwA="
           ]
         },
         {
@@ -1098,11 +1127,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap13557gcpf0dquhwd5s0ew9pvenv8prdmmpf8sj4",
-                "validator_address": "reapvaloper13557gcpf0dquhwd5s0ew9pvenv8prdmmrudm2e",
+                "delegator_address": "reap1tfjqn88caa2w8vumdmy5pnfy4crj79qajufkxx",
+                "validator_address": "reapvaloper1tfjqn88caa2w8vumdmy5pnfy4crj79qasfra72",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "WT2oEQdt2YsccS1jXAliK11VVP2kJVpXMndJsKAXSlc="
+                  "key": "NvqHq6NhJ040+CveZNJbBq41+ekz1go9B60xCNjO0yI="
                 },
                 "value": {
                   "denom": "areap",
@@ -1111,7 +1140,7 @@
                 "validator_type": "standing"
               }
             ],
-            "memo": "753211dae63364284ffa30e11648d9d53132a842@192.168.250.22:26656",
+            "memo": "815d51e1e976bb6bfe0b51830091da97da72a2f2@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -1121,7 +1150,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "A/T6zIzoY7Sf0TZ7XBBajSlzapTedsnMudZXgBzm34RB"
+                  "key": "Ajb78YddYbuk6zkRS7JecQ9FzLuloTJVj23Qr6j8z31k"
                 },
                 "mode_info": {
                   "single": {
@@ -1139,7 +1168,7 @@
             }
           },
           "signatures": [
-            "cHt5cv2A6lZqaQcloe8wPO7R4i6TR2bXgZCL1pvks5sbWuCKAzFfH2dDy/UkodUFwwkAs6WX6fT6AFcAU5sZDwE="
+            "cJhCyUjyBsbc1GMkNyI/dqvQ0fdAbN5cx1KMHoAeIIILvC+II24qTupxWEND+kxVt+4lyjhRGnCYX2mXvus5YQA="
           ]
         },
         {
@@ -1160,11 +1189,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap1n0lts6dmt6ne0x0zhcum2gcu0c2pggzmvamuna",
-                "validator_address": "reapvaloper1n0lts6dmt6ne0x0zhcum2gcu0c2pggzmwg3ht3",
+                "delegator_address": "reap1wpd0vv8waya2z5avsyjqhlkvph3myxcrwlf59k",
+                "validator_address": "reapvaloper1wpd0vv8waya2z5avsyjqhlkvph3myxcrv2rla6",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "l/V44mo9j4hpBTsA6KFI29ur/8ftlYgnSI10LfDPiQE="
+                  "key": "djHpJn0Uc52PM0MxIqx8ez/9MNHmP0lDYklAMOVQpC8="
                 },
                 "value": {
                   "denom": "areap",
@@ -1173,7 +1202,7 @@
                 "validator_type": "standing"
               }
             ],
-            "memo": "ab02ae886500af0f9334474c459164ab2fa2ef5d@192.168.250.22:26656",
+            "memo": "2058e6ebac66ad95795fa1de83e8fcd72b8d523e@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -1183,7 +1212,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "AtkvMWk8SgeBnGVbHC+MS4K5AnW7ufGWkGmd5NdE0cg7"
+                  "key": "AwcpYWCYkBDvsbDznbJVHQfWp7Qk8zmD7cIesE7SRPOK"
                 },
                 "mode_info": {
                   "single": {
@@ -1201,7 +1230,7 @@
             }
           },
           "signatures": [
-            "tvFVv9m7Yy4VOzjvo6H9KFn/sZ/Aq/3ciV76/UW7wVYBBOyJPtZ4RTkhBgOlAKuXf0dxfB6JJ06rXkyXdmMDKAE="
+            "/oglDl09b1GD10rWg7jzYLPRLeMpmNqYp8QjhXx6MQBYqKpAcnVzkDldWVdXuaaMhphga0P0SMxW82SJqgmS6gE="
           ]
         },
         {
@@ -1222,11 +1251,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap12qzucap39r7yshfn0vq9w8wecchgqqy0hmm833",
-                "validator_address": "reapvaloper12qzucap39r7yshfn0vq9w8wecchgqqy04w3vfa",
+                "delegator_address": "reap186j69hn5ugcfq3nvxyl376k5n4xacdn0e6tq0x",
+                "validator_address": "reapvaloper186j69hn5ugcfq3nvxyl376k5n4xacdn0m0pth2",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "csEyvvSkp7p+lEwgx36LGXtIUTf1/WfPAvCH6dqdbsE="
+                  "key": "W2F57vaEVLxLUL8ljbt60siOt6E5bsoAs3Ap0f2vmFU="
                 },
                 "value": {
                   "denom": "areap",
@@ -1235,7 +1264,7 @@
                 "validator_type": "standing"
               }
             ],
-            "memo": "4f08e0439ea9b3e4c7f055561a515af3b208521a@192.168.250.22:26656",
+            "memo": "f6bc6a2f1d8e8bdfdb2048cb8674815d0160591d@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -1245,7 +1274,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "Atsyt7Aso0v3RUrvC/UXF23N9pnGzrs9u1eQOvR5AJt9"
+                  "key": "A0hbWwWZnItuxEQL3A9RvH6jCTZuSQzrIV0TuHtdLH55"
                 },
                 "mode_info": {
                   "single": {
@@ -1263,7 +1292,7 @@
             }
           },
           "signatures": [
-            "l4OZBrQzIlqCC87os+02yW4uhSEGgdCVKLTOtGWmYptksxJnrzbjWsEJM+20VjL8ni/1gnVqsjNEmLv1LKAGcwE="
+            "ucslgjVVs5x62H6lDIT1UPKErNDi0Te0kLTazCnO5SYU4JUKke8GTCmS7M5yHIbKkmMPk0LxWi+BV+sUH0jTOwE="
           ]
         },
         {
@@ -1284,11 +1313,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap17fj03ux5dx8zv2uc7wvnnsgcwwx82mrdy6mdte",
-                "validator_address": "reapvaloper17fj03ux5dx8zv2uc7wvnnsgcwwx82mrdx03xn4",
+                "delegator_address": "reap1yxc80vtxnp9cek3lre37l2x2pcpj7qsgg0j095",
+                "validator_address": "reapvaloper1yxc80vtxnp9cek3lre37l2x2pcpj7qsg26cyac",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "1XJFNgLVrqljiU/u0F+geGk02UbOCQSCTG9YPm/Dzto="
+                  "key": "q1i0Wr+QwbKfZrS8R9bHpg29MSsXs0R0XRNGi77dCv8="
                 },
                 "value": {
                   "denom": "areap",
@@ -1297,7 +1326,7 @@
                 "validator_type": "standing"
               }
             ],
-            "memo": "87d96f1b005ae5ff59c2167c4419cd9306d4564d@192.168.250.22:26656",
+            "memo": "3616d46c744c1bda08ce2f44aa28376c8bafbc07@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -1307,7 +1336,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "Au2HMr52w9zqi+kz3vDjWQobCZqz1beO7+Gmccc8RI67"
+                  "key": "ArvxULCNqqnndeNmlRKpK4f6Ht/NZk2uHu9MCuiwoLz9"
                 },
                 "mode_info": {
                   "single": {
@@ -1325,7 +1354,7 @@
             }
           },
           "signatures": [
-            "Om4hNJ60hWU1/CDKnfQygQn/Jq8Kvt7GERyuTk1FujUnTe0R9RbafCcXu1Qr0htWetstIYddsOvJwt3nlj6yWQE="
+            "3howWjMwllcaZVDmDypU8WoQtzEqtRTsd6/T+wR92SZ7dmoPj+AZ0OVKtgCtPY+HPSQKgUu7nL+Db/ZZzLcSswE="
           ]
         },
         {
@@ -1346,11 +1375,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap1v7pxca38nepa4vqcr2url0ymp70t5tvcs8cw7r",
-                "validator_address": "reapvaloper1v7pxca38nepa4vqcr2url0ymp70t5tvcjjj9x0",
+                "delegator_address": "reap1x4zlmlr75zqt00nnwdsxx8alkwzxavc9mt842n",
+                "validator_address": "reapvaloper1x4zlmlr75zqt00nnwdsxx8alkwzxavc9e7d7jl",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "iz4KXGYHbwNYLC9s3YJ3f04iirGklaGw2zpr/8d0FiE="
+                  "key": "DdDTicl492ONQv6ABTT6pseiQzcEwktZq5ihBfoJHdw="
                 },
                 "value": {
                   "denom": "areap",
@@ -1359,7 +1388,7 @@
                 "validator_type": "standing"
               }
             ],
-            "memo": "d0db5f5eac0eb2da814d1275295808fbb61cf6b7@192.168.250.22:26656",
+            "memo": "7d66b63de0911ea3f2512811600ebfbe36ff8911@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -1369,7 +1398,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "At88I0T09jFkX09quanJMumesGC0ux8OOAuWSjIaQuB0"
+                  "key": "A6ZLpNUizXgz2USQ3D2tT/6/ISEnkOKSKi18mlk+qVlu"
                 },
                 "mode_info": {
                   "single": {
@@ -1387,7 +1416,7 @@
             }
           },
           "signatures": [
-            "BtzUl5CuAGCRejAC7zfLIRdBOG9CMwi6lhAk8Apby9cgm4gDuWhWzFik9+P/EL1LZwk9VjsNHtKqXWRrDGnEaAE="
+            "vcEWznv1bZi4X0P5q6mfnqVAvr4AEgZ66tjnqg4bPMtwrVwMZ3Xp86gHUr6LyTwjNxhH6i168QsjQX8hl4ebQQE="
           ]
         },
         {
@@ -1408,11 +1437,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap1d9y7pwca28hnuyuczw0d42m7mfv65q88vdpcxm",
-                "validator_address": "reapvaloper1d9y7pwca28hnuyuczw0d42m7mfv65q88wctn7h",
+                "delegator_address": "reap17ww099e9ss2w5nshf37zrljr3adytvqtcnh79n",
+                "validator_address": "reapvaloper17ww099e9ss2w5nshf37zrljr3adytvqt6xa4al",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "ZgDZfpvIc33HCS02yZoS1iPeIzBlqMYuQyhfWcUW/7g="
+                  "key": "4olmGhOWa+t0NELDasmS+myNXVU4f92Et/jAlmDlQ5E="
                 },
                 "value": {
                   "denom": "areap",
@@ -1421,7 +1450,7 @@
                 "validator_type": "standing"
               }
             ],
-            "memo": "fa3cbe6a0dfa400be3330534094b19f3ecf4bf90@192.168.250.22:26656",
+            "memo": "14cad21a588c86c623c1cbd3dd40e34e494f7245@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -1431,7 +1460,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "Az6QPk3UZLOaijA+00lHCeNkdNq5rEL/PN9CsbbkL5QN"
+                  "key": "A85jpfqBwVIcINFSlCZonnnxZdRbDDvmINHVGGRU6cRH"
                 },
                 "mode_info": {
                   "single": {
@@ -1449,7 +1478,7 @@
             }
           },
           "signatures": [
-            "63ww4H+AUrN0qh2QAIAjz7NFLVfRj4b0VTGR3kw+9eJa2O/7k+Pqu35ZT55Q0MnHh2WoVg5RQxA1I8LaMQZxNAE="
+            "em4oKoAv8oKzrvhD0Ww+FEZhrg2NWeLGdxvmD2cGZdh/H1/TTRfNvnJFyQ42ASN6De60IT9dHS9x46TUheXgUQE="
           ]
         },
         {
@@ -1470,11 +1499,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap1cws3zql8u9usfee8r29pqu3zyku65adn2cnx4l",
-                "validator_address": "reapvaloper1cws3zql8u9usfee8r29pqu3zyku65adngdeddn",
+                "delegator_address": "reap1xp3zqn0q56td4huzmf0x439mz04gzxva9cn427",
+                "validator_address": "reapvaloper1xp3zqn0q56td4huzmf0x439mz04gzxva8de7jj",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "CijcPJ5A83Ue5gqgFysw/q7cKqso2pVN5sQugkeAETY="
+                  "key": "VVaZDZ7H0z8BPYUVtyT+bHlBal3tfjmeYA0Ygadg/YU="
                 },
                 "value": {
                   "denom": "areap",
@@ -1483,7 +1512,7 @@
                 "validator_type": "standing"
               }
             ],
-            "memo": "317cccafadcacbf81012e33ac67cc6ba8015a02e@192.168.250.22:26656",
+            "memo": "b0a6b97d838b1564a0963a02cdc42f858545f827@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -1493,7 +1522,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "A12UrUSHVJR7/LsX+fIZaP3a8d2Xqn9dDPcMuFsBVUlb"
+                  "key": "A6j6kSw0AMewd7s0vUV/dm0Ch5Wn53G2OQXMcLsSflFI"
                 },
                 "mode_info": {
                   "single": {
@@ -1511,7 +1540,7 @@
             }
           },
           "signatures": [
-            "se5zIl883gOvDyVmpjAB/jDvxCvwyBe8kdJe0GN1afZtMdds+0ZD7s9/kYDiJIOheY4O+ArCo0o0/PQjuoC8HQE="
+            "st1fWGdOpC8VS2xFIRbqxKm8vSGN0iZzwHPP32PIg/EL82X+mt4yPMsNOYMX3pcReGby8MYPPuFGsi2uolV/KQA="
           ]
         },
         {
@@ -1532,11 +1561,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap1n385mxg0dpk0f53vde7h080nf6wjugagusy9lx",
-                "validator_address": "reapvaloper1n385mxg0dpk0f53vde7h080nf6wjugag79ww82",
+                "delegator_address": "reap1cjcld344x8n5dhc5kw94ffv4ujgvcw334lag5a",
+                "validator_address": "reapvaloper1cjcld344x8n5dhc5kw94ffv4ujgvcw33h2hrv3",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "PWQDNDdiPfUGaiXK1sdbYpKr7twhEIpIz+PkUK1tpoo="
+                  "key": "Jzxa7zp/laUFe2p4+2RX/46o/yafdHVhugDqnQqazNg="
                 },
                 "value": {
                   "denom": "areap",
@@ -1545,7 +1574,7 @@
                 "validator_type": "standing"
               }
             ],
-            "memo": "5cebd045697a38f9d429ebcacd51eff3ef1e6805@192.168.250.22:26656",
+            "memo": "b6f681629c27b10a59479a0db2f51578f3fda9f1@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -1555,7 +1584,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "A5YZxB7B4hSLw6zdqcEn9o1INzTWFLgzyEqYcLOe2JxM"
+                  "key": "A1dGEg7CBe0A8teCA1L/pNa6AaaI1/eeEL6eAQ+/5QWt"
                 },
                 "mode_info": {
                   "single": {
@@ -1573,7 +1602,7 @@
             }
           },
           "signatures": [
-            "hMEBXOeWz1nrMaIhHToaegFwVmHnyWAmhuYrTzZCkEkMz1zuwsNnfNOl0U9YasQQteo6Vg95pvzpkC+U7RyUjQA="
+            "mqRXD0rZ/f9yKgJShmz+OxGJpT03BqPRPVy0apxrLslAmrxAoWmHhA23ovu5bxh02QuAol6jMO5VGNLmMVbctwE="
           ]
         },
         {
@@ -1594,11 +1623,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap1lxhv8r9x6zgtfsd9j3rw8w0zl0exjsagqmgn6e",
-                "validator_address": "reapvaloper1lxhv8r9x6zgtfsd9j3rw8w0zl0exjsagzwzcz4",
+                "delegator_address": "reap1hwe9v29u79m60mgyepp2auq90zwjm4zjumspdh",
+                "validator_address": "reapvaloper1hwe9v29u79m60mgyepp2auq90zwjm4zj7w624m",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "JgA3loVRy58ePEroZXPSPrvZL8q9Ov+DPIspEs7IdI8="
+                  "key": "dd6Gm3OayFDyvOxj5Oxgpk63MZ1vY+lfvFQCE83dQTE="
                 },
                 "value": {
                   "denom": "areap",
@@ -1607,7 +1636,7 @@
                 "validator_type": "steering"
               }
             ],
-            "memo": "b6e3bc65bf1b26319ae19c7e03254903c052fe9d@192.168.250.22:26656",
+            "memo": "ad07a531827a6d0e37bf7d610bf9e37afd0ff6b1@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -1617,7 +1646,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "A6yxHnSStQ8swSRwrfozmta4FRrbzJ28X/2jlxOFBbOK"
+                  "key": "A3D04XTWwbLaLOO0aI2uv0SvcAX3eGsBJIlC+bs691n/"
                 },
                 "mode_info": {
                   "single": {
@@ -1635,7 +1664,7 @@
             }
           },
           "signatures": [
-            "c5C8ceFSSy263V8Y/7DHfKdRd1SRiNj6mMLFMWd2zfY/ogewalEyEe5KL/Fj5GZ2ZTAn/2vGiGaJ/VwmcDxBJQE="
+            "uot22Z4F4aoiXgXVstq2tE9q1L5ewEbiKyeSk9+pDAF7VEuSkB3lRgvQPTnbpNB7G0c5fnUJpbzF86tbNYNvUgE="
           ]
         },
         {
@@ -1656,11 +1685,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap142krkln8czj3ypwe40jn84ysdrr3w8k2q33a8s",
-                "validator_address": "reapvaloper142krkln8czj3ypwe40jn84ysdrr3w8k2zymklu",
+                "delegator_address": "reap1pm7y6sc54talxjyt35qlqpkq724zzjzu45gqx4",
+                "validator_address": "reapvaloper1pm7y6sc54talxjyt35qlqpkq724zzjzuhpzt7e",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "zq/dOyJ6Mjl5j/T77X4QFncVe9f5JiGGaGXZcIGk1sY="
+                  "key": "pCLj3CSsT6BjcUtN13twiO1RT5dovNVFwsSmygJPqIE="
                 },
                 "value": {
                   "denom": "areap",
@@ -1669,7 +1698,7 @@
                 "validator_type": "steering"
               }
             ],
-            "memo": "092095ebae24248b9070f13423545927d42a9cdc@192.168.250.22:26656",
+            "memo": "6c8a50cabd864a3c1f7b363bee813e0b907b1b9b@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -1679,7 +1708,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "Aj7Hjr38yC9mNZlG4t4RJC3I8Yo/5/8rJHNUoEyTmLhT"
+                  "key": "A9ck/rHaicyxe3xb5C0huZbzwcIBKtPgffP7xe3osp48"
                 },
                 "mode_info": {
                   "single": {
@@ -1697,7 +1726,7 @@
             }
           },
           "signatures": [
-            "lUyBa5P8IdC5K72rbLftulqZAv4IQG2ZyypSEWOXtzk/DvlO/9JLqxkEPhexbY3fP4PT69NtRbuFpWLJjtc2zQA="
+            "rbNVyhCVO5/EodtVZOTq6FVtERarhF0P4M6vNWQP2z1B1nZwuogTUGbvCy5I0CfsI6KmAJmIsdFTkNnvsgAU5AA="
           ]
         },
         {
@@ -1718,11 +1747,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap106zcqj2y4puz8fctxpmq99lyax75dn83p4d0pf",
-                "validator_address": "reapvaloper106zcqj2y4puz8fctxpmq99lyax75dn83rq8ye9",
+                "delegator_address": "reap12h82p68uj8044x4wcgfkvr4q2mu3dj3sjy5kpq",
+                "validator_address": "reapvaloper12h82p68uj8044x4wcgfkvr4q2mu3dj3ss37aev",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "tCdhK87yKfx4VXA0ci6iE75Zb56c2JmOgCaq80XDpSQ="
+                  "key": "W16PdQLOrcLAYiCSjweIBGyzomY1LrlbBp9HQz6xlYc="
                 },
                 "value": {
                   "denom": "areap",
@@ -1731,7 +1760,7 @@
                 "validator_type": "steering"
               }
             ],
-            "memo": "863ea16e470cbbb77350cca8718f92006221aebb@192.168.250.22:26656",
+            "memo": "cf926fb536d3bfe3f6b547c2d66692f8a9b843ef@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -1741,7 +1770,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "A987NQeSzmT7o9nxoIckhGkur+rpS7vcFthoHC0hZaQa"
+                  "key": "AtESZf6MfSYCjsMVid5m9k5MU86C9umXLl248P34JOur"
                 },
                 "mode_info": {
                   "single": {
@@ -1759,7 +1788,7 @@
             }
           },
           "signatures": [
-            "haWUVafi7RKjg9FYK+0EjAS8kW8ya3Jeh5CKeSHwf/tWaYx1XiurJnGHfgZZDXsmjCUY6eukbvZJxvfvJjDYvwE="
+            "lPKzGVQF+IQ6fpYYSnBMh9fxSMfrq5BqM/O0KVjBLSQZgcU08jPHopJEjHs6Z3VBYG7G4AUooseB9CuZGQsz8AE="
           ]
         },
         {
@@ -1780,11 +1809,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "reap1cm6ejv7n3kauj35yuewge7x9cf6e62e4kvm44e",
-                "validator_address": "reapvaloper1cm6ejv7n3kauj35yuewge7x9cf6e62e45e37d4",
+                "delegator_address": "reap1pr9qlrjkrcfqxda3d7sdp47etfsrm59gmkxwqh",
+                "validator_address": "reapvaloper1pr9qlrjkrcfqxda3d7sdp47etfsrm59gerv9cm",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "/TfCjT5Wrnt2sw62ybcxs+BvZFEIg5z0G27lL6i/FmA="
+                  "key": "OWHYHLmzGUajJytzk52j2zgmzMbZv7YclNn2qf+VgzI="
                 },
                 "value": {
                   "denom": "areap",
@@ -1793,7 +1822,7 @@
                 "validator_type": "steering"
               }
             ],
-            "memo": "21cbd9bccf90c87d63708666e6e141031a62afd2@192.168.250.22:26656",
+            "memo": "eb716f086d5195c55b0e6dd6fd64cf8270c58796@192.168.250.22:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -1803,7 +1832,7 @@
               {
                 "public_key": {
                   "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
-                  "key": "A8hPPuw2xXX6Dp7RSWzFE7IxpDUvjhlAaKeWqh2t5aAZ"
+                  "key": "A+57ltShCW97flMkaEcO4H8FJhAhefVp6AE/+OxTm46Q"
                 },
                 "mode_info": {
                   "single": {
@@ -1821,7 +1850,7 @@
             }
           },
           "signatures": [
-            "7liWS01XwDdMvttyLeSZRHGIg843o0Rkv15dD6fnwgAhfe13ZVmgu2NBs+IQoX3KbKidIW4sz8Ed34fqQKbtxQA="
+            "JyA/yCXczFwqJWu2e2dF67YOcd8LJeICyOWbXisp3RUxwSSiVUk6+p1pCUK0FJSSS3Y5OZLza852YBbDQpv+DgA="
           ]
         }
       ]
@@ -1965,114 +1994,114 @@
   },
   "standing_members": [
     {
-      "address": "15A46B2E7CA096A96DF04E2890DCA9CBB8EEDC1B",
+      "address": "9A5F04ADB4B6DDFE7E49D36696E66C2EEE2986B8",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "tppJlX7ZXd1x8evCD3xJmc2Tnujs4UaqypdyrHqwcAQ="
+        "value": "ulrtthm03EZ7CBLPKy6jy2C4Jh8t0DAb+VuMmyYqGS4="
       },
       "name": "standing0"
     },
     {
-      "address": "6F0401A62B60BD18FE0C2C1782529343F54CAA60",
+      "address": "42591B22B8E7BAA8F7880385F3D9620EDD3CC9B8",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "WR9vW6XoSuPcwRxtbm1DXZjiu03VIUC63pkSrCnZG9w="
+        "value": "9sD84O6B90CPPnls8eVg6RUw/yXFjD/wsVDjZKDg2FY="
       },
       "name": "standing1"
     },
     {
-      "address": "43F99264FB53A88E9D0BC34066E9A50C3C8D2317",
+      "address": "81146778FB8B68E9285BC06BED82B08B727D05F7",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "OUZzm+4PhcKS77OtlBpkU2RdrI7XhHpMw74GxQ0h1v0="
+        "value": "GsMzgCarOYxEO72QdZUmnkAC0l75COkDbEY9WNcPPz0="
       },
       "name": "standing2"
     },
     {
-      "address": "6A12BACFB996A443527C97840969A89967985D4E",
+      "address": "0AE90D0599F95E4C1A1681937AE33FAEB404D14F",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "Hdm1NkpOvHB0Qb9eFii/dxXv/0ypySFf9xyrQEdVYtc="
+        "value": "DP1SnpsxGida+QzmuDTAmxuLZ9FOUYXWAhd0I8Xj0Jw="
       },
       "name": "standing3"
     },
     {
-      "address": "48F6E8380D58826FE701B69DE22010A47E9BB023",
+      "address": "745E8CBD5D396FBC0F62E76147EA5D1334F87562",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "Q+345NHotuXUKd1ld0qScrPQhq45TqNg5YN0UAv8/6A="
+        "value": "xbit/vScnXIDetqhi5zBOsCvU8D6zkmYhKTTxT9MGfs="
       },
       "name": "standing4"
     },
     {
-      "address": "3D681907C66F36BAD337645641B4F3D3673E1305",
+      "address": "3243EC1BFC78BCC7C86B699C0F9BE3F280802931",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "Jwo8Gf7krciQjvd/rjrD1D2kPvdqXVRv1ozWL/1aH/Q="
+        "value": "GCepZ1SeDkiclCgzE7B80p8kZ/bl5+14UtGHsA7L17g="
       },
       "name": "standing5"
     },
     {
-      "address": "57E110ACD298F173B07AF7DD40A94021D5F9DE2D",
+      "address": "F36715C99BA60932134377F46E7FF9980255955C",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "WT2oEQdt2YsccS1jXAliK11VVP2kJVpXMndJsKAXSlc="
+        "value": "NvqHq6NhJ040+CveZNJbBq41+ekz1go9B60xCNjO0yI="
       },
       "name": "standing6"
     },
     {
-      "address": "7723A4219955A082F2E01395FD09BCC159B3251E",
+      "address": "446DED19C713B7FD5807AD6DF89873DAA7099813",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "l/V44mo9j4hpBTsA6KFI29ur/8ftlYgnSI10LfDPiQE="
+        "value": "djHpJn0Uc52PM0MxIqx8ez/9MNHmP0lDYklAMOVQpC8="
       },
       "name": "standing7"
     },
     {
-      "address": "D0F46D9055F69D5C824DC12F94E1B1C16B10B8E7",
+      "address": "0892982720C4812409B0AE100ABCD40693DA73BB",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "csEyvvSkp7p+lEwgx36LGXtIUTf1/WfPAvCH6dqdbsE="
+        "value": "W2F57vaEVLxLUL8ljbt60siOt6E5bsoAs3Ap0f2vmFU="
       },
       "name": "standing8"
     },
     {
-      "address": "85C7A41ADA9848DEA052A64332F98E2AA17240E9",
+      "address": "4D8841CF8CEE66D4B2412BC77E6F09A30F473F3E",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "1XJFNgLVrqljiU/u0F+geGk02UbOCQSCTG9YPm/Dzto="
+        "value": "q1i0Wr+QwbKfZrS8R9bHpg29MSsXs0R0XRNGi77dCv8="
       },
       "name": "standing9"
     },
     {
-      "address": "516921164EDA7A14D24679494AEC3B208DCE6819",
+      "address": "A38E22F8A627DEF8C2B0D973D54FA2D2EDA1C98D",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "iz4KXGYHbwNYLC9s3YJ3f04iirGklaGw2zpr/8d0FiE="
+        "value": "DdDTicl492ONQv6ABTT6pseiQzcEwktZq5ihBfoJHdw="
       },
       "name": "standing10"
     },
     {
-      "address": "041153B30D140EA6382489B903F9DCE35A6760C6",
+      "address": "06B4BA8AD3481AF0B9342EF581CD006728244118",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "ZgDZfpvIc33HCS02yZoS1iPeIzBlqMYuQyhfWcUW/7g="
+        "value": "4olmGhOWa+t0NELDasmS+myNXVU4f92Et/jAlmDlQ5E="
       },
       "name": "standing11"
     },
     {
-      "address": "899B3813BC319A1C94EA30178DFBBC0948E8B20B",
+      "address": "65D05A6451BFCDBEF383FE3E1130C172D0B40A41",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "CijcPJ5A83Ue5gqgFysw/q7cKqso2pVN5sQugkeAETY="
+        "value": "VVaZDZ7H0z8BPYUVtyT+bHlBal3tfjmeYA0Ygadg/YU="
       },
       "name": "standing12"
     },
     {
-      "address": "4D5E6C513BBEF415A8B4CB699B2DB667F3E84189",
+      "address": "0EDDC4386683321CCBA21B5D824686767472046D",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "PWQDNDdiPfUGaiXK1sdbYpKr7twhEIpIz+PkUK1tpoo="
+        "value": "Jzxa7zp/laUFe2p4+2RX/46o/yafdHVhugDqnQqazNg="
       },
       "name": "standing13"
     }
@@ -2090,11 +2119,11 @@
       "timestamp": "0001-01-01T00:00:00Z",
       "standing_member_pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "tppJlX7ZXd1x8evCD3xJmc2Tnujs4UaqypdyrHqwcAQ="
+        "value": "ulrtthm03EZ7CBLPKy6jy2C4Jh8t0DAb+VuMmyYqGS4="
       },
       "qrn_index": 0,
-      "value": "11664261334456065230",
-      "signature": "dImLkfIcTFSIvhCjR7HfEix2Olz9OcCsqhQwX25/DAskswh+5/SlPsMjytCGkgjMzXk5MdjKTI6X/G+M5gCIAA==",
+      "value": "16814651256041618048",
+      "signature": "Ts+zMmKLBkrXb3p3uiEvk7zxjh1JYBFZstMkjQwWDUNG8UxjwIDdL4pKJ/y0xS5pF8LDzZ2Y3QIgjf7cYB3wCQ==",
       "standing_member_index": 0
     },
     {
@@ -2102,11 +2131,11 @@
       "timestamp": "0001-01-01T00:00:00Z",
       "standing_member_pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "WR9vW6XoSuPcwRxtbm1DXZjiu03VIUC63pkSrCnZG9w="
+        "value": "9sD84O6B90CPPnls8eVg6RUw/yXFjD/wsVDjZKDg2FY="
       },
       "qrn_index": 0,
-      "value": "15571970579839607345",
-      "signature": "lFblQHcWaQZNM4nY+dBUFMCddx92VSECrOw7A0AccM3sL8r5rnhxvuFB+EXQveW0tA8XOdeUwbiIZ8xoU73sCw==",
+      "value": "14422340847401859534",
+      "signature": "eCwEZMR3a5FKnlvI8RgrtxX70O8rVsE+gpEHhoabHFuHDkTrfFxoRQnPY1JXj64oszvydJFAaO7eiLYN/sOOAA==",
       "standing_member_index": 1
     },
     {
@@ -2114,11 +2143,11 @@
       "timestamp": "0001-01-01T00:00:00Z",
       "standing_member_pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "OUZzm+4PhcKS77OtlBpkU2RdrI7XhHpMw74GxQ0h1v0="
+        "value": "GsMzgCarOYxEO72QdZUmnkAC0l75COkDbEY9WNcPPz0="
       },
       "qrn_index": 0,
-      "value": "14499183796204947672",
-      "signature": "1ZLj/Z8ld+2xmSmmyE72EM4l8SSJRrFpDW7xREui1HDVUxJGhrYLL3YytTGZP0EBPRfFxX79f+8NwQ+zo9RcBQ==",
+      "value": "15926085441884119647",
+      "signature": "1wpMZWl7s7RI1rZPC9GsdHEQBtEqPWMKNyGr4FdJkhFse6q9ALGat5r1C7xkq98y+MDIZHTmwUP7iS55RXTcAg==",
       "standing_member_index": 2
     },
     {
@@ -2126,11 +2155,11 @@
       "timestamp": "0001-01-01T00:00:00Z",
       "standing_member_pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "Hdm1NkpOvHB0Qb9eFii/dxXv/0ypySFf9xyrQEdVYtc="
+        "value": "DP1SnpsxGida+QzmuDTAmxuLZ9FOUYXWAhd0I8Xj0Jw="
       },
       "qrn_index": 0,
-      "value": "7567830794011592035",
-      "signature": "uu45cnPdc+Xn5gam6Km3p2ODy/s1C6uQY3Qq3/0IQBuCdDHTnFd0LP+5fpTrlRt0FdoT1GXfiQkrbLY22GdUCA==",
+      "value": "2914306453175217226",
+      "signature": "YJSuTcoU70JBv3r5QOTMQjVf01/r9JCg/nDe7WiAdDkztQlRKObH/VNrkL2qHNEaugtSKpeq0zko4YK22uMGDQ==",
       "standing_member_index": 3
     },
     {
@@ -2138,11 +2167,11 @@
       "timestamp": "0001-01-01T00:00:00Z",
       "standing_member_pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "Q+345NHotuXUKd1ld0qScrPQhq45TqNg5YN0UAv8/6A="
+        "value": "xbit/vScnXIDetqhi5zBOsCvU8D6zkmYhKTTxT9MGfs="
       },
       "qrn_index": 0,
-      "value": "16352428508266557061",
-      "signature": "tXn++UXSeQ3t8UZTpuqynw+sUQ37wE3HnngepAMSBva3gow4gJfRSQ5BT0CDougH+dbPSw/SJtNrlpqYZS9bDw==",
+      "value": "963406958157059227",
+      "signature": "HRSndObsMSSknRSKnUNg1TZlKvP3D1BQ3ZVDUYJWHrDwoeP+ioTeJu11F/yx7AZmZco0X2RzkGk8mgfAFL+dCQ==",
       "standing_member_index": 4
     },
     {
@@ -2150,11 +2179,11 @@
       "timestamp": "0001-01-01T00:00:00Z",
       "standing_member_pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "Jwo8Gf7krciQjvd/rjrD1D2kPvdqXVRv1ozWL/1aH/Q="
+        "value": "GCepZ1SeDkiclCgzE7B80p8kZ/bl5+14UtGHsA7L17g="
       },
       "qrn_index": 0,
-      "value": "2630942091617712451",
-      "signature": "7Ngrw+mJ61USBDOhCQMjUPIeSfO1GlRG1WblcS9rI+iJYphU7B3VtC9a7XEeqvjoeAJ7xZfz+SfhYnLOuvBdAA==",
+      "value": "13190548147932022262",
+      "signature": "pDnHRJAwTK+GMceDZavovvaCpNbFJ7XJNGpay1pN88K46A+zep24kBfB1i3FPRo98HRjOefc3zlwAFOkj/OuDw==",
       "standing_member_index": 5
     },
     {
@@ -2162,11 +2191,11 @@
       "timestamp": "0001-01-01T00:00:00Z",
       "standing_member_pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "WT2oEQdt2YsccS1jXAliK11VVP2kJVpXMndJsKAXSlc="
+        "value": "NvqHq6NhJ040+CveZNJbBq41+ekz1go9B60xCNjO0yI="
       },
       "qrn_index": 0,
-      "value": "5040797023818149972",
-      "signature": "jtGURTh/OfsbvWX/FpQkTmF9rzth8lW0p5ZrZmQ6i6lrleeInx8FPxcEwXWoL6RemB9Yrw4Mdak/lWJ9ucLTDA==",
+      "value": "7916826092816385143",
+      "signature": "5BwMV3sLkUt8MvhByH0XyA5jN1k50/O5Bp1LYN0qjjOtyiKaxjwQca/G89IuxCTt4kZazA5M5n4JQ8yJr10HDQ==",
       "standing_member_index": 6
     },
     {
@@ -2174,11 +2203,11 @@
       "timestamp": "0001-01-01T00:00:00Z",
       "standing_member_pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "l/V44mo9j4hpBTsA6KFI29ur/8ftlYgnSI10LfDPiQE="
+        "value": "djHpJn0Uc52PM0MxIqx8ez/9MNHmP0lDYklAMOVQpC8="
       },
       "qrn_index": 0,
-      "value": "11664664459073915545",
-      "signature": "88ttmTPNejJi76bDnc4yoecLaFGzkZyJAaKIlGRJp9vvSTIptFzxCMsUqX2Mq3Gg3u2cCw41NUL5bn9SiO/iCQ==",
+      "value": "6648492082354431823",
+      "signature": "ZnNB1uZmlRAL9saS/F3h6VI4tJmNnbfTd+5g48ngHbuLeoud2tZLfuZ1hwLXFjeqSF7SbmrSJW0lMeCwSgoECA==",
       "standing_member_index": 7
     },
     {
@@ -2186,11 +2215,11 @@
       "timestamp": "0001-01-01T00:00:00Z",
       "standing_member_pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "csEyvvSkp7p+lEwgx36LGXtIUTf1/WfPAvCH6dqdbsE="
+        "value": "W2F57vaEVLxLUL8ljbt60siOt6E5bsoAs3Ap0f2vmFU="
       },
       "qrn_index": 0,
-      "value": "6104421670015445545",
-      "signature": "KXURpl0REjLk1ve24WnbnHBnJhJ2n7gWtXOiX0fUSLmiMUOT035TEWfWZp6PHzgyxt7cojJemSjQhpVC4Yw6AA==",
+      "value": "496033473285236478",
+      "signature": "lAe0M0nhk8pteNwVlMqHEKehoesEfUXPcyuy1K16IgKmDOe7Mtg41gNm8gkCIRw5bscWNc7pUY+JrkwMmsrWBQ==",
       "standing_member_index": 8
     },
     {
@@ -2198,11 +2227,11 @@
       "timestamp": "0001-01-01T00:00:00Z",
       "standing_member_pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "1XJFNgLVrqljiU/u0F+geGk02UbOCQSCTG9YPm/Dzto="
+        "value": "q1i0Wr+QwbKfZrS8R9bHpg29MSsXs0R0XRNGi77dCv8="
       },
       "qrn_index": 0,
-      "value": "5828507207730151713",
-      "signature": "cKJPWyxeGureHUpR2ewhDrkGP3oAwnKvHZMlw7oZG837VvF7c4QUhzO9/YNKMpARfFv2xCb2/AWDxq3vuYs0Ag==",
+      "value": "15507997846680680268",
+      "signature": "KIaGbjT5abaTFFsv1wb4Dn6W/xW2XcfWgh7PTrbH5WOXe1/QuuL20YATD31Dv5sZtEwZAVXiXdvtmSSa2eTPDA==",
       "standing_member_index": 9
     },
     {
@@ -2210,11 +2239,11 @@
       "timestamp": "0001-01-01T00:00:00Z",
       "standing_member_pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "iz4KXGYHbwNYLC9s3YJ3f04iirGklaGw2zpr/8d0FiE="
+        "value": "DdDTicl492ONQv6ABTT6pseiQzcEwktZq5ihBfoJHdw="
       },
       "qrn_index": 0,
-      "value": "12568414621775902441",
-      "signature": "7eM676Y+y+BOubUjFxFSP476OSJVaun5mQffJDc2YCYVOMAi0ykRHn5Uj/1OwXVEkVioWU7m8ILcabCpg22zCw==",
+      "value": "2296930462235747247",
+      "signature": "m0KywTko9cbQhRBe1jnhDFI/gyDHjNjQo7UT6DtpeTgfnRUx4cjFy7rNQg+6oWAB+yPBjs9xnoPn3V2z7XDQDw==",
       "standing_member_index": 10
     },
     {
@@ -2222,11 +2251,11 @@
       "timestamp": "0001-01-01T00:00:00Z",
       "standing_member_pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "ZgDZfpvIc33HCS02yZoS1iPeIzBlqMYuQyhfWcUW/7g="
+        "value": "4olmGhOWa+t0NELDasmS+myNXVU4f92Et/jAlmDlQ5E="
       },
       "qrn_index": 0,
-      "value": "6670569844918018334",
-      "signature": "ALBHsTqhU7VC70liB4DmxxJEqht74YlL4FhT/ZA5qGSUyV5+BL4TlbwMcUapvE7dr3EQd3izQseJgRVChNVVAw==",
+      "value": "11199470891113499802",
+      "signature": "TjeF1KDmr8Ynsx7QhTCVujil2FFhG7SUY1L4smvm+p8+hCiMd86kaI7NSEAubrSEuLcDldkMEt7kHx3eoEHmBg==",
       "standing_member_index": 11
     },
     {
@@ -2234,11 +2263,11 @@
       "timestamp": "0001-01-01T00:00:00Z",
       "standing_member_pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "CijcPJ5A83Ue5gqgFysw/q7cKqso2pVN5sQugkeAETY="
+        "value": "VVaZDZ7H0z8BPYUVtyT+bHlBal3tfjmeYA0Ygadg/YU="
       },
       "qrn_index": 0,
-      "value": "963693114200544063",
-      "signature": "aj4Gtfae6SN3dWAaiTBP2Mnkh8CYpipWHNGqnc2xlHPeqmUtMoHJBvEyXPUjf/xQqwjdjVf3oorCTe/htTPeDQ==",
+      "value": "7862094094241167178",
+      "signature": "DbwmdsKn44NFVqkgZfQ3djmMR4+IUweZlrBw+LF5zG249J0k95ouWU3zeNtdPt3drduNjhjr0O9twa57RiQJDg==",
       "standing_member_index": 12
     },
     {
@@ -2246,44 +2275,44 @@
       "timestamp": "0001-01-01T00:00:00Z",
       "standing_member_pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "PWQDNDdiPfUGaiXK1sdbYpKr7twhEIpIz+PkUK1tpoo="
+        "value": "Jzxa7zp/laUFe2p4+2RX/46o/yafdHVhugDqnQqazNg="
       },
       "qrn_index": 0,
-      "value": "3180865659367432652",
-      "signature": "/y4vTFcMvdoDAZhmb3K/dhzqZ5pva8TpTV4UL1wjzi9bDpoBCorh7Jvb+nUWVcUStz6wAycmkY5kciaDnelaAg==",
+      "value": "970744194722124502",
+      "signature": "Mj+VRnEEiuwWDz/U0C6GArya9c5Fa01kKld9RhztZsL+XJNCv6QLbFk2yCzDnmIR4RdmZhvQzQNEJYg2VWg2Ag==",
       "standing_member_index": 13
     }
   ],
   "steering_member_candidates": [
     {
-      "address": "15916E432D1E1A5EFA9917D748922B84849358F6",
+      "address": "AFF7FCD30CFA7C2906DE2DC6A276BEDAE132CFA7",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "JgA3loVRy58ePEroZXPSPrvZL8q9Ov+DPIspEs7IdI8="
+        "value": "dd6Gm3OayFDyvOxj5Oxgpk63MZ1vY+lfvFQCE83dQTE="
       },
       "name": "steering14"
     },
     {
-      "address": "13AC1FDAAE1F9EE0945166B4F07C765FA35FCB1A",
+      "address": "D6C1228D0E55543139E00A2E37370DEF05D9FA48",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "zq/dOyJ6Mjl5j/T77X4QFncVe9f5JiGGaGXZcIGk1sY="
+        "value": "pCLj3CSsT6BjcUtN13twiO1RT5dovNVFwsSmygJPqIE="
       },
       "name": "steering15"
     },
     {
-      "address": "3A6924D9122A648A2943C4B7F48A2B44224DD841",
+      "address": "1F5A0123C777C5F951B71389C1D56A6D62204B8B",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "tCdhK87yKfx4VXA0ci6iE75Zb56c2JmOgCaq80XDpSQ="
+        "value": "W16PdQLOrcLAYiCSjweIBGyzomY1LrlbBp9HQz6xlYc="
       },
       "name": "steering16"
     },
     {
-      "address": "7944403C013FC5F0667BFE4F1E3336727E9B7540",
+      "address": "776BE369BA2DE5AF8C6F513BAB4C49967CB9CDE4",
       "pub_key": {
         "type": "reapchain/PubKeyEd25519",
-        "value": "/TfCjT5Wrnt2sw62ybcxs+BvZFEIg5z0G27lL6i/FmA="
+        "value": "OWHYHLmzGUajJytzk52j2zgmzMbZv7YclNn2qf+VgzI="
       },
       "name": "steering17"
     }
