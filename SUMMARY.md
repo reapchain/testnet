@@ -16,13 +16,15 @@
     * [My Account](user-guides/dashboard/pages/my-account.md)
     * [Staking](user-guides/dashboard/pages/staking.md)
     * [Uptime](user-guides/dashboard/pages/uptime.md)
-  * [How To Use](user-guides/dashboard/how-to-use.md)
+  * [How To Use](user-guides/dashboard/how-to-use/README.md)
+    * [Page 1](user-guides/dashboard/how-to-use/page-1.md)
 
 ## Additional Guides
 
+* [MetaMask](additional-guides/metamask.md)
 * [Keplr](additional-guides/keplr/README.md)
   * [Install & Account Setup](additional-guides/keplr/install-and-account-setup.md)
-* [MetaMask](additional-guides/metamask.md)
+  * [Transfer](additional-guides/keplr/transfer.md)
 
 ## Developer Guides
 
