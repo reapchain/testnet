@@ -27,9 +27,9 @@ Install the Metamask wallet as follows:
 Next, you can add the Reapchain Network to your Metamask as follows:
 
 1. After launching Metamask, click the dropdown button to select a network.\
-   ![](<../../.gitbook/assets/image (16).png>)
+   ![](<../../.gitbook/assets/image (16) (1).png>)
 2. Click the "Add Network" Button\
-   ![](<../../.gitbook/assets/image (10).png>)
+   ![](<../../.gitbook/assets/image (10) (2).png>)
 3. Fill out the input form on the Add Network page as shown below.\
    \- **Network Name** : Reapchain (what you want)\
    \- **New RPC URL** : https://endpoint.reapchain.com:27400\
@@ -37,6 +37,6 @@ Next, you can add the Reapchain Network to your Metamask as follows:
    \- **Current Symbol** : REAP\
    \- **Block Explorer URL** : https://dashboard.reapchain.com\
    \
-   ![](<../../.gitbook/assets/image (6).png>)
+   ![](<../../.gitbook/assets/image (6) (1).png>)
 4. After clicking the save button, check that it is connected to the Reapchain network.\
    ![](<../../.gitbook/assets/image (18).png>)

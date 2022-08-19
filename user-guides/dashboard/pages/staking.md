@@ -12,7 +12,7 @@ If you own a validator account, you can also request withdrawals for rewards and
 
 #### Active Validators
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (1).png>)
 
 #### Validator Info
 

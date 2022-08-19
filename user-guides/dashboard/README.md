@@ -2,7 +2,7 @@
 
 ### Summary
 
-The Reapchain Dashboard is a web application that supports most of the activities supported by Reapchain.
+The [Reapchain Dashboard](https://dashboard.reapchain.com) is a web application that supports most of the activities supported by Reapchain.
 
 It supports the following features:
 

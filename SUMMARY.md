@@ -17,13 +17,16 @@
     * [Staking](user-guides/dashboard/pages/staking.md)
     * [Uptime](user-guides/dashboard/pages/uptime.md)
   * [How To Use](user-guides/dashboard/how-to-use/README.md)
-    * [Page 1](user-guides/dashboard/how-to-use/page-1.md)
+    * [Connect Wallet](user-guides/dashboard/how-to-use/connect-wallet.md)
+    * [Transfer](user-guides/dashboard/how-to-use/transfer.md)
+    * [Staking](user-guides/dashboard/how-to-use/staking.md)
 
 ## Additional Guides
 
 * [Keplr](additional-guides/keplr/README.md)
   * [Install & Account Setup](additional-guides/keplr/install-and-account-setup.md)
   * [Transfer](additional-guides/keplr/transfer.md)
+  * [Withdraw](additional-guides/keplr/withdraw.md)
 * [Metamask](additional-guides/metamask/README.md)
   * [Install & Account Setup](additional-guides/metamask/install-and-account-setup.md)
   * [Transfer](additional-guides/metamask/transfer.md)
