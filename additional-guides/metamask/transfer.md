@@ -1,14 +1,18 @@
 # Transfer
 
+This Page explains how to send Reap using Metamask.
 
+1. Prepare Reap to your account to send through [faucet](../../user-guides/faucet.md), etc.
+2. Click the Send button to go to the transfer screen.\
+   ![](../../.gitbook/assets/image.png)
+3. Fill out the input form on the transfer screen.\
+   ![](<../../.gitbook/assets/image (5).png>)
+4. After confirming the gas setting, click the Confirm button.\
+   ![](<../../.gitbook/assets/image (2).png>)
 
+5\. For a second, wait for the transaction to complete.\
+![](<../../.gitbook/assets/image (20).png>)
 
+6\. When the transaction is complete, check the result.\
+![](<../../.gitbook/assets/image (19).png>)
 
-* Prepare reap to your account to send through faucet, etc.
-* Run Metamask and make sure that the reapchain network and the account with the reap to send are selected
-* Click the Send button on the main screen
-* Enter information about send and click the "Next" button\
-  \- Send to\
-  \- Amount
-* After confirming the estimated gas fee and Total Amount, click the "Confirm" button
-* After a While, check the transaction result

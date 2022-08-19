@@ -16,21 +16,27 @@ Install the Metamask wallet as follows:
 3. Enter the mnemonic phrase and account name.
 4. Confirm that you are logged into your account.
 
-#### \* If you do not have an account:
+#### \* If you don't have an account:
 
-1. Create an account using the "Create new account" function of Keplr wallet, or refer to [here](../../user-guides/account.md#creating-an-account).\
+1. Create an account using the create new account function of Metamask wallet.\
    Alternatively, refer to this [page](../../user-guides/account.md) to create an account using the command line interface.
-2. If you have created an account with command line interface, click the "Import Existing account" button in Keplr and register.
+2. If you have created an account with command line interface, access the Import Existing account page in Metamask and register.
 
-Recover your account with your mnemonic phrase which you recieved at your inital account setup [here](../../user-guides/account.md#creating-an-account)
+### 3. Connect with the Reapchain Network
 
-* You can then add the Reapchain Test Network as follows:\
-  \- Access the "Add a network" page (Networks  -> Add Network)\
-  \- Network Name : Reapchain(what you want)\
-  \- New RPC URL : https://endpoint.reapchain.com:27400\
-  \- Chain ID : 2022\
-  \- Currency Symbol : REAP\
-  \- Block Explorer URL : [https://dashboard.reapchain.com](https://dashboard.reapchain.com/)
-* Once added, you can then select the Reapchain Network and check your balance
+Next, you can add the Reapchain Network to your Metamask as follows:
 
-****
+1. After launching Metamask, click the dropdown button to select a network.\
+   ![](<../../.gitbook/assets/image (16).png>)
+2. Click the "Add Network" Button\
+   ![](<../../.gitbook/assets/image (10).png>)
+3. Fill out the input form on the Add Network page as shown below.\
+   \- **Network Name** : Reapchain (what you want)\
+   \- **New RPC URL** : https://endpoint.reapchain.com:27400\
+   \- **Chain ID** : 2022\
+   \- **Current Symbol** : REAP\
+   \- **Block Explorer URL** : https://dashboard.reapchain.com\
+   \
+   ![](<../../.gitbook/assets/image (6).png>)
+4. After clicking the save button, check that it is connected to the Reapchain network.\
+   ![](<../../.gitbook/assets/image (18).png>)
