@@ -8,7 +8,7 @@ This page, acting as a lite explorer, helps you to search and view activity reco
 
 #### Block List
 
-![](<../../../.gitbook/assets/image (8) (1).png>)
+![](<../../../.gitbook/assets/image (8) (1) (1).png>)
 
 #### Block Info
 

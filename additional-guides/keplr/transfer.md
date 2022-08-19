@@ -14,5 +14,5 @@ This Page explains how to send Reap using Keplr.
    &#x20; \* If you do not set up enough GAS, the transaction may fail and you may end up paying only fees.\
    ![](<../../.gitbook/assets/image (1) (3).png>)
 5. Click the Send button and wait for the transaction result.\
-   ![](<../../.gitbook/assets/image (8) (3).png>)
+   ![](<../../.gitbook/assets/image (8) (1).png>)
 

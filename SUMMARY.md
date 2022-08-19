@@ -17,7 +17,7 @@
     * [Staking](user-guides/dashboard/pages/staking.md)
     * [Uptime](user-guides/dashboard/pages/uptime.md)
   * [How To Use](user-guides/dashboard/how-to-use/README.md)
-    * [Connect Wallet](user-guides/dashboard/how-to-use/connect-wallet.md)
+    * [Connect Wallet](user-guides/dashboard/how-to-use/page-1.md)
     * [Transfer](user-guides/dashboard/how-to-use/transfer.md)
     * [Staking](user-guides/dashboard/how-to-use/staking.md)
 
