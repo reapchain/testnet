@@ -8,7 +8,7 @@ If you have enough Reap, you can request delegation to the Standing Validator or
 
 If you own a validator account, you can also request withdrawals for rewards and commissions.
 
-### Screen Shot
+### User Interface
 
 #### Active Validators
 

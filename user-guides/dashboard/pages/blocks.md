@@ -4,7 +4,7 @@
 
 This page, acting as a lite explorer, helps you to search and view activity records such as block creation and reap transactions that occur in Reapchain.
 
-### Screen Shot
+### User Interface
 
 #### Block List
 

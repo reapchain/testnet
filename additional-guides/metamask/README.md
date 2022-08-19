@@ -1,8 +1,10 @@
 ---
-description: This page explains how to install and use the Keplr, a Cosmos-based wallet.
+description: >-
+  This page explains how to install and use the Metamask, an Ethereum-based
+  wallet.
 ---
 
-# Keplr
+# Metamask
 
 ### Install & Setting
 

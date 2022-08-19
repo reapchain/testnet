@@ -4,6 +4,6 @@
 
 Check the liveness of validators on this page.
 
-### Screen Shot
+### User Interface
 
 ![](<../../../.gitbook/assets/image (10).png>)

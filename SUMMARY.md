@@ -21,10 +21,12 @@
 
 ## Additional Guides
 
-* [MetaMask](additional-guides/metamask.md)
 * [Keplr](additional-guides/keplr/README.md)
   * [Install & Account Setup](additional-guides/keplr/install-and-account-setup.md)
   * [Transfer](additional-guides/keplr/transfer.md)
+* [Metamask](additional-guides/metamask/README.md)
+  * [Install & Account Setup](additional-guides/metamask/install-and-account-setup.md)
+  * [Transfer](additional-guides/metamask/transfer.md)
 
 ## Developer Guides
 

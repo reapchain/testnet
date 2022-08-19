@@ -6,7 +6,7 @@ On the My Account page, you can view account information, balances, delegated am
 
 You can also request transactions related to transfer and delegation.
 
-### Screen Shot
+### User Interface
 
 ![](<../../../.gitbook/assets/image (2).png>)
 
