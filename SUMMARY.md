@@ -8,7 +8,6 @@
 * [Account](user-guides/account.md)
 * [Faucet](user-guides/faucet.md)
 * [Coin Transfer](user-guides/coin-transfer.md)
-* [Explorer](user-guides/explorer.md)
 * [Dashboard](user-guides/dashboard/README.md)
   * [Pages](user-guides/dashboard/pages/README.md)
     * [Summary](user-guides/dashboard/pages/summary.md)
