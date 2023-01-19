@@ -2,10 +2,10 @@
 
 ## Binary File
 
-In order for you to interact with the ReapChain Mercury Test Network, you will need to have an executable binary file. Currently, this file can be downloaded here:
+In order for you to interact with the ReapChain main network, you will need to have an executable binary file. Currently, this file can be downloaded here:
 
 {% embed url="https://github.com/reapchain/testnets/tree/main/mercury_2022-3" %}
-executable binary: reapchain\__Linux\_x86\_64.tar.gz, reapchain\__Darwin\_amd64.tar.gz
+executable binary: reapchain\_\_Linux\_x86\_64.tar.gz, reapchain\_\_Darwin\_amd64.tar.gz
 {% endembed %}
 
 Once downloaded, check the integrity of the binary file:
@@ -23,7 +23,6 @@ ee25738bd9a10fadb62bb0e77c65887d reapchain_Linux_x86_64.tar.gz
 ```
 
 If you want to compile your own binary package, please visit the Developers Guide section.
-
 
 You can uncompress the binary file with this command:
 
