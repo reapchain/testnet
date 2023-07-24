@@ -5,7 +5,7 @@ This Page explains how to send Reap using Keplr.
 1. Prepare reap to your account to send through [faucet](../../user-guides/faucet.md), etc
 2. Run Keplr wallet and make sure that the Reapchain network and the account with the Reap to send are selected
 3. Click the Send button on the main screen.\
-   ![](<../../.gitbook/assets/image (8) (2).png>)
+   ![](<../../.gitbook/assets/image (8) (2) (1).png>)
 4. Enter information about transfer\
    \- Recipient\
    \- Amount\

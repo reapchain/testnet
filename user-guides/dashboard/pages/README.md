@@ -4,8 +4,8 @@ The sub-items describe each page of the Reapchain Dashboard.
 
 ### Summary
 
-{% content-ref url="summary.md" %}
-[summary.md](summary.md)
+{% content-ref url="dashboard.md" %}
+[dashboard.md](dashboard.md)
 {% endcontent-ref %}
 
 ### Blocks

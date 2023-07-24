@@ -18,14 +18,12 @@ If you want to use Keplr wallet, your account must be signed in to Keplr.
 
 1. Click "Connect with Keplr"
 2. A pop-up to add the TestNet Chain to Keplr will open
-3. If you approve of this, a pop-up to access the chain will open\
+3.  If you approve of this, a pop-up to access the chain will open\\
 
-   ![](../.gitbook/assets/RequestingConnection.JPG)
+    <img src="../.gitbook/assets/RequestingConnection.JPG" alt="" data-size="original">
+4.  If you approve this pop-up, your address will be automatically entered.\\
 
-4. If you approve this pop-up, your address will be automatically entered.\
-
-   ![](../.gitbook/assets/ChainAddRequest.JPG)
-   
+    <img src="../.gitbook/assets/ChainAddRequest.JPG" alt="" data-size="original">
 5. Verify that you are not a robot
 6. Click "Send Coins" which will transfer 1 reap to your account
 
@@ -63,7 +61,7 @@ You need to replace these variables:
 
 1. **$MY\_ADDRESS** - Your address for your account
 2. **$NODE\_IP** - The IP address for a node in the Mercury TestNet. Currently you can use 13.125.20.241:27000
-3. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "mercury_2022-3"
+3. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "mercury\_2022-3"
 
 An example:
 

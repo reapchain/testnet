@@ -4,8 +4,8 @@ This page explains how to use Reapchain-related features on the dashboard.
 
 ### Connect Wallet
 
-{% content-ref url="page-1.md" %}
-[page-1.md](page-1.md)
+{% content-ref url="connect-with-wallet.md" %}
+[connect-with-wallet.md](connect-with-wallet.md)
 {% endcontent-ref %}
 
 ### Transfer
