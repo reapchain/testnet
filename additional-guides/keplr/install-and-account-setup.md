@@ -25,12 +25,23 @@ Install the Keplr wallet as follows:
 
 Next, you can add the Reapchain Network to your Keplr Extension by visiting the [Reapchain Dashboard](../../user-guides/dashboard/)
 
-Once added the Reapchain Network, you can then select the Reapchain Network and check your balance
+Once added the Reapchain Network, you can then add the reapchain network to be visible in Keplr.
+
+![](<../../.gitbook/assets/image (56).png>)
+
+![](<../../.gitbook/assets/image (57).png>)
+
+![](<../../.gitbook/assets/image (58).png>)
+
+Alternatively, you can add it using the "Manage Chain Visibility" feature in Settings.
+
+![](<../../.gitbook/assets/image (59).png>)
+
+If registered it successfully, the REAP balance will be displayed in Keplr.
+
+![](<../../.gitbook/assets/image (60).png>)
 
 
 
-![](<../../.gitbook/assets/image (1) (2).png>)
 
-![](<../../.gitbook/assets/image (9) (2).png>)
 
-![](<../../.gitbook/assets/image (13) (1).png>)
