@@ -8,7 +8,7 @@ If you want to use Keplr wallet, your account must be signed in to Keplr.
 
 ### Web Interface
 
-1. Visit [http://faucet.reapchain.com](http://faucet.reapchain.com)
+1. Visit [https://faucet.reapchain.org](https://faucet.reapchain.org)
 2. You can choose to enter your address manually or connect with Keplr, if you would like to use Keplr please skip to [here](faucet.md#keplr)
 3. Verify that you are not a robot 4. Click "Send Coins" which will transfer 1 reap to your account
 
@@ -18,12 +18,10 @@ If you want to use Keplr wallet, your account must be signed in to Keplr.
 
 1. Click "Connect with Keplr"
 2. A pop-up to add the TestNet Chain to Keplr will open
-3.  If you approve of this, a pop-up to access the chain will open\\
+3.  If you approve of this, a pop-up to access the chain will open
 
-    <img src="../.gitbook/assets/RequestingConnection.JPG" alt="" data-size="original">
-4.  If you approve this pop-up, your address will be automatically entered.\\
-
-    <img src="../.gitbook/assets/ChainAddRequest.JPG" alt="" data-size="original">
+    <figure><img src="../.gitbook/assets/image.png" alt="" width="355"><figcaption></figcaption></figure>
+4. If you approve this pop-up, your address will be automatically entered.
 5. Verify that you are not a robot
 6. Click "Send Coins" which will transfer 1 reap to your account
 
@@ -60,13 +58,13 @@ In order to check your balance, you need to execute this command:
 You need to replace these variables:
 
 1. **$MY\_ADDRESS** - Your address for your account
-2. **$NODE\_IP** - The IP address for a node in the Mercury TestNet. Currently you can use 13.125.20.241:27000
-3. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "mercury\_2022-3"
+2. **$NODE\_IP** - The IP address for a node in the Mercury TestNet. Currently you can use test
+3. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "reapchain\_2023-1"
 
 An example:
 
 ```
-./reapchaind query bank balances reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 --node http://13.125.20.241:27000 --chain-id mercury_2022-3
+./reapchaind query bank balances reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 --node https://test-rpc.reapchain.org:443 --chain-id reapchain_2023-1
 ```
 
 If successful, the return message should look like this:
