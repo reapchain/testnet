@@ -12,7 +12,7 @@ If you own a validator account, you can also request withdrawals for rewards and
 
 #### Validators
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Validator Info
 

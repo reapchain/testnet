@@ -12,22 +12,22 @@ You will need to change the variables in the command:
 
 1. **$MY\_ADDRESS** - Your address for your account
 2. **$RECIPIENT\_ADDRESS** - The address you want to transfer some coins to
-3. **$AMOUNT** - The amount of coins you want to transfer and also the denomination (200areap)
+3. **$AMOUNT** - The amount of coins you want to transfer and also the denomination (100reap)
 4. **$NODE\_IP** - The IP address for a node in the Mercury TestNet. Currently you can use https://test-rpc.reapchain.org:443
-5. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "reapchain\_2023-1"
-6. **$FEE\_AMOUNT** - The amount of fees you need to pay in order for a successful transaction. Currently the amount you have to pay is 150000areap.
+5. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "reapchain\_221231-1"
+6. **$FEE\_AMOUNT** - The amount of fees you need to pay in order for a successful transaction. Currently the amount you have to pay is 0.0003reap.
 7. **$DIRECTORY** - The directory where you stored your keys when you created your account.
 
 An example:
 
 ```
-./reapchiand tx bank send  reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 reap1yklx36ud99wulgd5p805pkg34xsrarwqgtpqx6 200ureap --node http://13.125.20.241:27000/ --chain-id mercury_2022-3 --fees 20000areap --home test_dir --keyring-backend test
+./reapchiand tx bank send  reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 reap1yklx36ud99wulgd5p805pkg34xsrarwqgtpqx6 100reap --node https://test-rpc.reapchain.org:443 --chain-id reapchain_221231-1 --fees 0.0003reap --home test_dir --keyring-backend test
 ```
 
 If successful the return messages should be:
 
 ```
-{"body":{"messages":[{"@type":"/cosmos.bank.v1beta1.MsgSend","from_address":"reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5","to_address":"reap1yklx36ud99wulgd5p805pkg34xsrarwqgtpqx6","amount":[{"denom":"areap","amount":"200"}]}],"memo":"","timeout_height":"0","extension_options":[],"non_critical_extension_options":[]},"auth_info":{"signer_infos":[],"fee":{"amount":[{"denom":"areap","amount":"150000"}],"gas_limit":"100000","payer":"","granter":""}},"signatures":[]}
+{"body":{"messages":[{"@type":"/cosmos.bank.v1beta1.MsgSend","from_address":"reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5","to_address":"reap1yklx36ud99wulgd5p805pkg34xsrarwqgtpqx6","amount":[{"denom":"areap","amount":"1000000000000000000"}]}],"memo":"","timeout_height":"0","extension_options":[],"non_critical_extension_options":[]},"auth_info":{"signer_infos":[],"fee":{"amount":[{"denom":"areap","amount":"300000000000000"}],"gas_limit":"200000","payer":"","granter":""}},"signatures":[]}
 
 confirm transaction before signing and broadcasting [y/N]: y
 {"height":"12670","txhash":"D2B86E909A3993DA9E26EE48FDE2D4CF55C75EEF83CD649DC5445DAE9725DCBA","codespace":"","code":0,"data":"0A060A0473656E64","raw_log":"[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"send\"},{\"key\":\"sender\",\"value\":\"reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5\"},{\"key\":\"module\",\"value\":\"bank\"}]},{\"type\":\"transfer\",\"attributes\":[{\"key\":\"recipient\",\"value\":\"reap1yklx36ud99wulgd5p805pkg34xsrarwqgtpqx6\"},{\"key\":\"sender\",\"value\":\"reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5\"},{\"key\":\"amount\",\"value\":\"200areap\"}]}]}]","logs":[{"msg_index":0,"log":"","events":[{"type":"message","attributes":[{"key":"action","value":"send"},{"key":"sender","value":"reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5"},{"key":"module","value":"bank"}]},{"type":"transfer","attributes":[{"key":"recipient","value":"reap1yklx36ud99wulgd5p805pkg34xsrarwqgtpqx6"},{"key":"sender","value":"reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5"},{"key":"amount","value":"200areap"}]}]}],"info":"","gas_wanted":"100000","gas_used":"70261","tx":null,"timestamp":""}
@@ -45,12 +45,12 @@ You need to replace these variables:
 
 1. **$MY\_ADDRESS** - Your address for your account
 2. **$NODE\_IP** - The IP address for a node in the Mercury TestNet. Currently you can use https://test-rpc.reapchain.org:443
-3. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "reapchain\_2023-1"
+3. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "reapchain\_221231-1"
 
 An example:
 
 ```
-./reapchaind query bank balances reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 --node https://test-rpc.reapchain.org:443 --chain-id reapchain_2023-1
+./reapchaind query bank balances reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 --node https://test-rpc.reapchain.org:443 --chain-id reapchain_221231-1
 ```
 
 If successful, the return message should look like this:

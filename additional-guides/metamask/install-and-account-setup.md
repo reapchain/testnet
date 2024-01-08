@@ -31,12 +31,14 @@ Next, you can add the Reapchain Network to your Metamask as follows:
 2. Click the "Add Network" Button\
    ![](<../../.gitbook/assets/image (10) (1) (1).png>)
 3. Fill out the input form on the Add Network page as shown below.\
-   \- **Network Name** : Reapchain (what you want)\
+   \- **Network Name** : Reapchain Testnet (what you want)\
    \- **New RPC URL** : https://endpoint.reapchain.com:27400\
-   \- **Chain ID** : 2022\
-   \- **Current Symbol** : REAP\
+   \- **Chain ID** : 221231\
+   \- **Current Symbol** : tREAP\
    \- **Block Explorer URL** : https://dashboard.reapchain.com\
    \
-   ![](<../../.gitbook/assets/image (6) (1) (2).png>)
+   ![](../../.gitbook/assets/image.png)
 4. After clicking the save button, check that it is connected to the Reapchain network.\
-   ![](<../../.gitbook/assets/image (18) (1).png>)
+
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="355"><figcaption></figcaption></figure>
