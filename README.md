@@ -1,10 +1,10 @@
 # ReapChain
 
-This repository holds the guides, documents, genesis files, and binary files required to interact with and even run the Mercury Testnet
+This repository holds the guides, documents, genesis files, and binary files required to interact with and even run the Reapchain Testnet
 
 ## GitBook Tutorials
 
-You can get started with the Mercury Testnet by accessing all of the required materials through our GitBook. Currently you can access this GitBook [here](https://reapchain.gitbook.io/mercury/).
+You can get started with the Reapchain Testnet by accessing all of the required materials through our GitBook. Currently you can access this GitBook [here](https://reapchain.gitbook.io/mercury/).
 
 ## About Us
 
